@@ -10,14 +10,14 @@
     "label": "Energie Regenerabilă",
     "title1": "Descoperă Puterea Energiei Verde",
     "cta": "Incepe Acum",
-    "motto" : "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa Green Energy",
+    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
+    "author": "— Echipa SOLOTRANS-AGRO SRL",
     "cta2": "Schimbăți Traiul, Incepând de Acum",
     "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "Suntem o echipă pasionată de sustenabilitate și tehnologie, dedicată promovării energiei solare în Republica Moldova. Cu o experiență solidă în domeniul fotovoltaic, oferim servicii complete: de la consultanță personalizată și proiectare tehnică, până la instalare profesională și mentenanță pe termen lung.",
+    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
@@ -43,10 +43,10 @@
       }
     }
   },
-  "ServicesLanding" : {
-    "title" : "Serviciile Noastre"
+  "ServicesLanding": {
+    "title": "Serviciile Noastre"
   },
-  "CtaBlock" : {
+  "CtaBlock": {
     "title": "Ești pregătit să începi tranziția către energie solară?",
     "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
     "button": "Incepe Acum"
@@ -58,10 +58,9 @@
   "Contact": {
     "title": "Incepe Acum",
     "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "contact@energieverde.ro",
-    "phone": "+40 123 456 789",
+    "mail": "solotrans-agro@mail.ru",
+    "phone": "(022) 35-40-81",
     "button": "Support Clienți",
-    
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
     "nameLabel": "Nume",
@@ -69,10 +68,19 @@
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
     "messageLabel": "Cum te putem ajuta?",
-    "submitButton": "Trimite"
+    "submitButton": "Trimite",
+
+    "subtitle1": "Răspundem Rapid",
+    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
+
+    "subtitle2": "Consultanță Custom",
+    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
+
+    "subtitle3": "Suport Post-Vânzare",
+    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
   },
   "Footer": {
-    "description": "Promovăm energia curată prin soluții fotovoltaice moderne și eficiente, oferim consultanță, proiectare și instalare.",
+    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -83,7 +91,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "Suntem o companie românească specializată în soluții fotovoltaice, dedicată tranziției către energie regenerabilă. Cu o echipă de profesioniști pasionați și certificați, oferim servicii complete pentru clienți rezidențiali și comerciali: consultanță, proiectare, instalare și mentenanță.",
+    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -93,7 +101,7 @@
     "image3": "/about/certifications/cert3.png",
     "image4": "/about/certifications/cert4.png"
   },
-  "Process" : {
+  "Process": {
     "title": "Procesul de instalare",
     "steps": [
       {
@@ -116,15 +124,18 @@
       }
     ]
   },
-  "Services" : {
+  "Services": {
     "title": "Serviciile Noastre"
   },
-  "News" : {
-    "title": "Noutăți"
+  "News": {
+    "title": "Noutăți",
+
+    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
+    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
   },
   "LocaleSwitcher": {
     "ro": "Română",
-    "en": "Engleză",
+    "ru": "Rusă",
     "label": "Limbă"
   }
 }
