@@ -8,16 +8,16 @@
   },
   "Hero": {
     "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
+    "title1": "Soluții Moderne Pentru Viitor",
     "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "motto": "“Nu e doar despre energie. E despre responsabilitate și progres.”",
+    "author": "— Echipa MEGAINTERCOM SRL",
+    "cta2": "Energie Verde, Alegeri Inteligente",
+    "subtitle": "Folosim energia solară pentru a oferi sisteme fotovoltaice eficiente, durabile și adaptate nevoilor fiecărei locații."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
+    "description": "MEGAINTERCOM SRL este o companie situată în s. Stăuceni, mun. Chișinău, str. Ciorescu 2, Republica Moldova. Activăm în domeniul energiei regenerabile și ne concentrăm pe soluții fotovoltaice moderne. Administrator: Batcu Valerian. Contact: Tel. 069171870, Email: info.megawind@gmail.com.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
@@ -27,19 +27,19 @@
     "points": {
       "1": {
         "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "description": "Panourile noastre transformă lumina naturală în energie electrică fără emisii nocive."
       },
       "2": {
         "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "description": "Reduci factura la electricitate și recuperezi investiția rapid, cu beneficii garantate."
       },
       "3": {
         "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "description": "Deții controlul total asupra propriei surse de energie, fără dependență de rețele externe."
       },
       "4": {
         "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "description": "Oferă un plus de valoare locuinței sau afacerii tale printr-o soluție energetică modernă."
       }
     }
   },
@@ -47,8 +47,8 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
+    "title": "Vrei să faci trecerea la energie solară?",
+    "subtitle": "Contactează echipa MEGAINTERCOM pentru o analiză detaliată și o ofertă potrivită nevoilor tale.",
     "button": "Incepe Acum"
   },
   "NewsLanding": {
@@ -57,9 +57,9 @@
   },
   "Contact": {
     "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "solotrans-agro@mail.ru",
-    "phone": "(022) 35-40-81",
+    "subtitle": "Suntem aici pentru a răspunde întrebărilor tale sau pentru a-ți oferi o ofertă personalizată.",
+    "mail": "info.megawind@gmail.com",
+    "phone": "069171870",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
@@ -69,18 +69,15 @@
     "phoneLabel": "Telefon",
     "messageLabel": "Cum te putem ajuta?",
     "submitButton": "Trimite",
-
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
-
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
-
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle1": "Răspuns Rapid",
+    "subdescription1": "Ne angajăm să răspundem fiecărei solicitări în cel mai scurt timp posibil.",
+    "subtitle2": "Consultanță Clară",
+    "subdescription2": "Primești explicații transparente și soluții personalizate pentru orice proiect.",
+    "subtitle3": "Asistență Continuă",
+    "subdescription3": "Oferim suport și întreținere după instalare pentru o experiență completă."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "MEGAINTERCOM SRL • str. Ciorescu 2, Stăuceni, mun. Chișinău • TVA 0309374 • IDNO 1006600004256 • BC ProCredit Bank • SWIFT PRCBMD22",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -91,7 +88,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "description": "MEGAINTERCOM SRL contribuie la dezvoltarea durabilă prin promovarea energiei solare în Republica Moldova. Suntem dedicați furnizării de soluții fotovoltaice eficiente, cu accent pe calitate, transparență și inovație.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -106,19 +103,19 @@
     "steps": [
       {
         "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "description": "Analizăm cerințele clientului, evaluăm locația și propunem soluția tehnică potrivită.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuita"
+        "button": "Consultatie Gratuită"
       },
       {
         "title": "Instalare profesionistă",
-        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "description": "Executăm montajul complet, respectând standardele tehnice și normele de siguranță.",
         "image": "/about/process/step2.svg",
         "button": "Oferte Speciale"
       },
       {
         "title": "Testare și livrare finală",
-        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "description": "Verificăm funcționalitatea sistemului și oferim toate materialele necesare clientului.",
         "image": "/about/process/step3.svg",
         "button": "Montare Profesionistă"
       }
@@ -129,9 +126,8 @@
   },
   "News": {
     "title": "Noutăți",
-
-    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogs": "Urmărește blogul nostru pentru cele mai noi informații despre energie verde.",
+    "moreBlogsDescription": "Publicăm noutăți despre soluții moderne, tehnologii inovatoare și experiențe reale din teren."
   },
   "LocaleSwitcher": {
     "ro": "Română",
