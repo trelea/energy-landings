@@ -28,9 +28,9 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
         <div className="container flex w-full justify-between items-center">
           <div className="flex items-center gap-8">
             <Image
-              src={isDarkMode ? '/logos/logo-white.png' : '/logos/logo-text.png'}
+              src={isDarkMode ? '/logos/logo-white.svg' : '/logos/logo-text.svg'}
               alt="Green Energy Logo"
-              width={130}
+              width={200}
               height={50}
             />
             {/* <h1 className="text-center font-bold text-xl text-white">LOGO</h1> */}
@@ -67,7 +67,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
               locale={locale}
               className={`ps-6 p-2 rounded-full w-full flex items-center justify-between gap-4 ${
                 isDarkMode
-                  ? 'bg-[#FF5722] hover:bg-[#ff5622cc] text-white'
+                  ? 'bg-[#3F51B5] hover:bg-[#3f51b5de] text-white'
                   : 'bg-white hover:bg-[#eeeeee] text-[#001D3D]'
               }`}
             >

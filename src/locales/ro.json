@@ -7,39 +7,39 @@
     "button": "Obține Consultanță"
   },
   "Hero": {
-    "label": "Energie Regenerabilă",
-    "title1": "Soluții Moderne Pentru Viitor",
-    "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre responsabilitate și progres.”",
-    "author": "— Echipa MEGAINTERCOM SRL",
-    "cta2": "Energie Verde, Alegeri Inteligente",
-    "subtitle": "Folosim energia solară pentru a oferi sisteme fotovoltaice eficiente, durabile și adaptate nevoilor fiecărei locații."
+    "label": "Transport Internațional",
+    "title1": "Logistică Modernă și Sigură",
+    "cta": "Contactează-ne",
+    "motto": "“Transportul eficient pornește de la încredere și precizie.”",
+    "author": "— Echipa IMPORTEX-TRANS SRL",
+    "cta2": "Transportăm Cu Responsabilitate",
+    "subtitle": "Oferim servicii de transport internațional și logistică de încredere, adaptate nevoilor fiecărui client."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "MEGAINTERCOM SRL este o companie situată în s. Stăuceni, mun. Chișinău, str. Ciorescu 2, Republica Moldova. Activăm în domeniul energiei regenerabile și ne concentrăm pe soluții fotovoltaice moderne. Administrator: Batcu Valerian. Contact: Tel. 069171870, Email: info.megawind@gmail.com.",
-    "label1": "Economii generate",
-    "label2": "Sisteme instalate",
-    "label3": "Clienți mulțumiți"
+    "description": "SRL IMPORTEX-TRANS este o companie de transport internațional cu sediul în or. Edineț, Republica Moldova. Adrese: str. Florar 76 (corespondență), str. Hotinu lui 140 (juridică). Administrator: Scutari Vasile. Contact: Tel. +373 (699) 89933, Email: importex-trans@mail.ru.",
+    "label1": "Destinații acoperite",
+    "label2": "Transporturi efectuate",
+    "label3": "Clienți satisfăcuți"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi IMPORTEX-TRANS",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile noastre transformă lumina naturală în energie electrică fără emisii nocive."
+        "title": "Experiență în domeniu",
+        "description": "Cu ani de activitate în transport, oferim servicii rapide și fiabile oriunde în Europa."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci factura la electricitate și recuperezi investiția rapid, cu beneficii garantate."
+        "title": "Soluții personalizate",
+        "description": "Adaptăm fiecare transport cerințelor tale specifice, indiferent de volum sau destinație."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Deții controlul total asupra propriei surse de energie, fără dependență de rețele externe."
+        "title": "Siguranță garantată",
+        "description": "Mărfurile tale sunt transportate în condiții sigure, cu monitorizare permanentă."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "Oferă un plus de valoare locuinței sau afacerii tale printr-o soluție energetică modernă."
+        "title": "Partener de încredere",
+        "description": "Suntem alături de clienții noștri cu transparență, promptitudine și comunicare eficientă."
       }
     }
   },
@@ -47,37 +47,37 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Vrei să faci trecerea la energie solară?",
-    "subtitle": "Contactează echipa MEGAINTERCOM pentru o analiză detaliată și o ofertă potrivită nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Ai nevoie de transport internațional?",
+    "subtitle": "Contactează IMPORTEX-TRANS pentru o ofertă personalizată și o colaborare de încredere.",
+    "button": "Solicită Ofertă"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din domeniul solar",
+    "title": "Ultimele noutăți din logistică",
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Suntem aici pentru a răspunde întrebărilor tale sau pentru a-ți oferi o ofertă personalizată.",
-    "mail": "info.megawind@gmail.com",
-    "phone": "069171870",
+    "title": "Contactează-ne",
+    "subtitle": "Suntem disponibili pentru solicitări de transport, colaborări și informații suplimentare.",
+    "mail": "importex-trans@mail.ru",
+    "phone": "+37369989933",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
+    "formSubtitle": "Suntem disponibili oricând pentru întrebări",
     "nameLabel": "Nume",
     "surnameLabel": "Prenume",
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
-    "messageLabel": "Cum te putem ajuta?",
+    "messageLabel": "Mesajul tău",
     "submitButton": "Trimite",
-    "subtitle1": "Răspuns Rapid",
-    "subdescription1": "Ne angajăm să răspundem fiecărei solicitări în cel mai scurt timp posibil.",
-    "subtitle2": "Consultanță Clară",
-    "subdescription2": "Primești explicații transparente și soluții personalizate pentru orice proiect.",
-    "subtitle3": "Asistență Continuă",
-    "subdescription3": "Oferim suport și întreținere după instalare pentru o experiență completă."
+    "subtitle1": "Răspuns Prompt",
+    "subdescription1": "Ne angajăm să răspundem solicitărilor tale cât mai repede posibil.",
+    "subtitle2": "Colaborare Transparentă",
+    "subdescription2": "Oferim claritate contractuală, respectarea termenelor și comunicare directă.",
+    "subtitle3": "Suport Permanent",
+    "subdescription3": "Suntem alături de tine înainte, în timpul și după efectuarea transportului."
   },
   "Footer": {
-    "description": "MEGAINTERCOM SRL • str. Ciorescu 2, Stăuceni, mun. Chișinău • TVA 0309374 • IDNO 1006600004256 • BC ProCredit Bank • SWIFT PRCBMD22",
+    "description": "IMPORTEX-TRANS SRL • str. Florar 76 / str. Hotinu lui 140, Edineț • TVA 5500705 • C/F 1008604005635 • BC Victoriabank SA • SWIFT VICBMD2X",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -88,7 +88,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "MEGAINTERCOM SRL contribuie la dezvoltarea durabilă prin promovarea energiei solare în Republica Moldova. Suntem dedicați furnizării de soluții fotovoltaice eficiente, cu accent pe calitate, transparență și inovație.",
+    "description": "IMPORTEX-TRANS SRL este un nume de încredere în transportul internațional. Cu o echipă dedicată și flotă adaptată, livrăm rapid și în siguranță mărfurile tale oriunde în Europa.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -99,25 +99,25 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Procesul de instalare",
+    "title": "Cum lucrăm",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Analizăm cerințele clientului, evaluăm locația și propunem soluția tehnică potrivită.",
+        "title": "Evaluare rapidă",
+        "description": "Discutăm detaliile comenzii tale și oferim o soluție optimă de transport.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuită"
+        "button": "Solicită Ofertă"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "Executăm montajul complet, respectând standardele tehnice și normele de siguranță.",
+        "title": "Planificare și organizare",
+        "description": "Stabilim rutele, documentele și pregătirile pentru un transport fără griji.",
         "image": "/about/process/step2.svg",
-        "button": "Oferte Speciale"
+        "button": "Planificare Logistică"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "Verificăm funcționalitatea sistemului și oferim toate materialele necesare clientului.",
+        "title": "Livrare și feedback",
+        "description": "Livrăm marfa și urmărim satisfacția clientului. Serviciul nostru nu se oprește la descărcare.",
         "image": "/about/process/step3.svg",
-        "button": "Montare Profesionistă"
+        "button": "Transport Finalizat"
       }
     ]
   },
@@ -126,8 +126,8 @@
   },
   "News": {
     "title": "Noutăți",
-    "moreBlogs": "Urmărește blogul nostru pentru cele mai noi informații despre energie verde.",
-    "moreBlogsDescription": "Publicăm noutăți despre soluții moderne, tehnologii inovatoare și experiențe reale din teren."
+    "moreBlogs": "Vezi ultimele articole despre logistică, transport și experiențele clienților.",
+    "moreBlogsDescription": "Descoperă noutăți relevante despre piața transporturilor, sfaturi utile și inițiativele IMPORTEX-TRANS."
   },
   "LocaleSwitcher": {
     "ro": "Română",

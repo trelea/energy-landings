@@ -14,12 +14,12 @@ export default function Footer() {
     ]
 
     return (
-        <footer className="bg-[#140500] border-t border-[#4B4B4B] text-white w-full py-24 relative overflow-hidden z-0">
+        <footer className="bg-[#05070F] border-t border-[#4B4B4B] text-white w-full py-24 relative overflow-hidden z-0">
             <div className="container xl:max-w-screen-xl mx-auto flex flex-col md:flex-row items-start justify-between gap-16 md:gap-8 px-4">
                 <div className="flex flex-col gap-12 max-w-[400px]">
                     <div className="flex flex-col items-start justify-start gap-4">
                         <Image
-                            src="/logos/logo-text.png"
+                            src="/logos/logo-text.svg"
                             alt="Green Energy Logo"
                             width={200}
                             height={50}
