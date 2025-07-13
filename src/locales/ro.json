@@ -8,16 +8,16 @@
   },
   "Hero": {
     "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
-    "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "title1": "Soluții Solare Inteligente Durabile",
+    "cta": "Începe Acum",
+    "motto": "“Nu e doar despre energie. E despre a construi un viitor mai bun.”",
+    "author": "— Echipa EXIMIUSFRUCT SRL",
+    "cta2": "Schimbă-ți Viitorul, Începe Azi",
+    "subtitle": "Sistemele noastre fotovoltaice utilizează doar energie solară – regenerabilă, curată și sustenabilă."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
+    "description": "EXIMIUSFRUCT SRL este o companie cu sediul în r. Dubăsari, s. Coșnița, str. Doina, 71. Suntem dedicați soluțiilor energetice moderne și activăm cu responsabilitate în domeniul agro-industrial și energetic. Administrator: Roșca Lilian. Pentru informații, ne puteți contacta la (+373) 69126133 sau pe e-mail: eximiusfructsrl@bk.ru.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
@@ -49,17 +49,17 @@
   "CtaBlock": {
     "title": "Ești pregătit să începi tranziția către energie solară?",
     "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "button": "Începe Acum"
   },
   "NewsLanding": {
     "title": "Ultimele noutăți din domeniul solar",
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
+    "title": "Începe Acum",
     "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "solotrans-agro@mail.ru",
-    "phone": "(022) 35-40-81",
+    "mail": "eximiusfructsrl@bk.ru",
+    "phone": "(+373) 69126133",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
@@ -69,18 +69,15 @@
     "phoneLabel": "Telefon",
     "messageLabel": "Cum te putem ajuta?",
     "submitButton": "Trimite",
-
     "subtitle1": "Răspundem Rapid",
     "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
-
     "subtitle2": "Consultanță Custom",
     "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
-
     "subtitle3": "Suport Post-Vânzare",
     "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "EXIMIUSFRUCT SRL • str. Doina 71, s. Coșnița, r. Dubăsari • TVA 5300184 • c/f 1017600044856 • BC ProCredit Bank S.A. • SWIFT PRCBMD22",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -91,7 +88,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "description": "EXIMIUSFRUCT SRL este o companie moldovenească activă în domeniul agro-industrial și energetic. Prin soluții moderne și profesionale, ne propunem să contribuim la un mediu mai curat și o economie mai eficientă.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -108,7 +105,7 @@
         "title": "Planificare și consultanță",
         "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuita"
+        "button": "Consultație Gratuită"
       },
       {
         "title": "Instalare profesionistă",
@@ -129,9 +126,8 @@
   },
   "News": {
     "title": "Noutăți",
-
-    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogs": "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
+    "moreBlogsDescription": "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
   },
   "LocaleSwitcher": {
     "ro": "Română",

@@ -19,13 +19,13 @@ export default async function Home() {
       <Hero />
 
       <AboutUs />
+      
+      <ServicesLanding />
 
       <WhyUs />
 
-      <ServicesLanding />
-
       <CtaBlock />
-
+      
       <NewsLanding />
 
       <Contact />

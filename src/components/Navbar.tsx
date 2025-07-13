@@ -67,7 +67,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
               locale={locale}
               className={`ps-6 p-2 rounded-full w-full flex items-center justify-between gap-4 ${
                 isDarkMode
-                  ? 'bg-[#4CAF50] hover:bg-[#4caf4fd0] text-white'
+                  ? 'bg-[#FFC107] hover:bg-[#ffc107cb] text-white'
                   : 'bg-white hover:bg-[#eeeeee] text-[#001D3D]'
               }`}
             >
@@ -131,7 +131,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 >
                   <span className="text-[#001D3D] font-medium">{t('button')}</span>
 
-                  <Image src="icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+                  <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
                 </a>
               </div>
             </div>

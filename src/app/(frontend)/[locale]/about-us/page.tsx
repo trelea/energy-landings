@@ -14,9 +14,9 @@ export default function AboutUsPage() {
 
       <OurStory />
 
-      <Certifications />
-
       <Process />
+
+      <Certifications />
 
       <CtaBlock />
 
