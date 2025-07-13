@@ -72,7 +72,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
               }`}
             >
               <span className="font-medium">{t('button')}</span>
-              <img
+              <Image
                 src={isDarkMode ? '/icons/arrow-up-empty.svg' : '/icons/arrow-up-filled.svg'}
                 width={34}
                 height={34}
@@ -131,7 +131,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 >
                   <span className="text-[#001D3D] font-medium">{t('button')}</span>
 
-                  <img src="icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+                  <Image src="icons/arrow-up-filled.svg" width={34} height={34} alt="" />
                 </a>
               </div>
             </div>
