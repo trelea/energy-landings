@@ -1,0 +1,130 @@
+{
+  "Navbar": {
+    "navlink1": "Acasă",
+    "navlink2": "Despre Noi",
+    "navlink3": "Servicii",
+    "navlink4": "Noutăți",
+    "button": "Obține Consultanță"
+  },
+  "Hero": {
+    "label": "Energie Regenerabilă",
+    "title1": "Descoperă Puterea Energiei Verde",
+    "cta": "Incepe Acum",
+    "motto" : "“Nu e doar despre energie. E despre a face parte din schimbare.”",
+    "author": "— Echipa Green Energy",
+    "cta2": "Schimbăți Traiul, Incepând de Acum",
+    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+  },
+  "AboutUs": {
+    "title": "Despre compania noastră",
+    "description": "Suntem o echipă pasionată de sustenabilitate și tehnologie, dedicată promovării energiei solare în Republica Moldova. Cu o experiență solidă în domeniul fotovoltaic, oferim servicii complete: de la consultanță personalizată și proiectare tehnică, până la instalare profesională și mentenanță pe termen lung.",
+    "label1": "Economii generate",
+    "label2": "Sisteme instalate",
+    "label3": "Clienți mulțumiți"
+  },
+  "WhyUs": {
+    "title": "Energie solară pentru o lume mai curată",
+    "points": {
+      "1": {
+        "title": "Energie 100% Curată",
+        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+      },
+      "2": {
+        "title": "Economie Pe Termen Lung",
+        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+      },
+      "3": {
+        "title": "Independență Energetică",
+        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+      },
+      "4": {
+        "title": "Valoare Adăugată Proprietății",
+        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+      }
+    }
+  },
+  "ServicesLanding" : {
+    "title" : "Serviciile Noastre"
+  },
+  "CtaBlock" : {
+    "title": "Ești pregătit să începi tranziția către energie solară?",
+    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
+    "button": "Incepe Acum"
+  },
+  "NewsLanding": {
+    "title": "Ultimele noutăți din domeniul solar",
+    "button": "Vezi tot"
+  },
+  "Contact": {
+    "title": "Incepe Acum",
+    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
+    "mail": "contact@energieverde.ro",
+    "phone": "+40 123 456 789",
+    "button": "Support Clienți",
+    
+    "formTitle": "Contactați-ne",
+    "formSubtitle": "Ne puteți contacta oricând",
+    "nameLabel": "Nume",
+    "surnameLabel": "Prenume",
+    "emailLabel": "Email",
+    "phoneLabel": "Telefon",
+    "messageLabel": "Cum te putem ajuta?",
+    "submitButton": "Trimite"
+  },
+  "Footer": {
+    "description": "Promovăm energia curată prin soluții fotovoltaice moderne și eficiente, oferim consultanță, proiectare și instalare.",
+    "sitemap": "Harta Site-ului",
+    "backToTop": "Înapoi sus",
+    "link1": "Acasă",
+    "link2": "Despre Noi",
+    "link3": "Servicii",
+    "link4": "Noutăți",
+    "link5": "Contact"
+  },
+  "OurStory": {
+    "title": "Povestea Noastră",
+    "description": "Suntem o companie românească specializată în soluții fotovoltaice, dedicată tranziției către energie regenerabilă. Cu o echipă de profesioniști pasionați și certificați, oferim servicii complete pentru clienți rezidențiali și comerciali: consultanță, proiectare, instalare și mentenanță.",
+    "image": "/about/our-story.png"
+  },
+  "Certifications": {
+    "title": "Certificări și Acreditări",
+    "image1": "/about/certifications/cert1.png",
+    "image2": "/about/certifications/cert2.png",
+    "image3": "/about/certifications/cert3.png",
+    "image4": "/about/certifications/cert4.png"
+  },
+  "Process" : {
+    "title": "Procesul de instalare",
+    "steps": [
+      {
+        "title": "Planificare și consultanță",
+        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "image": "/about/process/step1.svg",
+        "button": "Consultatie Gratuita"
+      },
+      {
+        "title": "Instalare profesionistă",
+        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "image": "/about/process/step2.svg",
+        "button": "Oferte Speciale"
+      },
+      {
+        "title": "Testare și livrare finală",
+        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "image": "/about/process/step3.svg",
+        "button": "Montare Profesionistă"
+      }
+    ]
+  },
+  "Services" : {
+    "title": "Serviciile Noastre"
+  },
+  "News" : {
+    "title": "Noutăți"
+  },
+  "LocaleSwitcher": {
+    "ro": "Română",
+    "en": "Engleză",
+    "label": "Limbă"
+  }
+}
