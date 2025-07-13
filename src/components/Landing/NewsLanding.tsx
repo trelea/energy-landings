@@ -6,6 +6,8 @@ import { getTranslations, getLocale } from 'next-intl/server';
 import Image from 'next/image';
 import NewsCard from '@/components/microComponents/NewsCard';
 
+import { Link } from '@/i18n/navigation';
+
 export default async function NewsLanding() {
     const payload = await getPayload({ config })
     const blogs = await payload.find({ collection: 'news' })
@@ -19,10 +21,10 @@ export default async function NewsLanding() {
                 <div className='flex justify-between items-center gap-2 w-full'>
                     <span className='font-medium text-xl lg:text-2xl'>{t('title')}</span>
                     
-                    <a href='#' className='flex gap-1 text-[#007BFF] whitespace-nowrap'>
+                    <Link href='/blogs' className='flex gap-1 text-[#4CAF50] whitespace-nowrap'>
                         <span className='font-medium'>{t('button')}</span>
                         <Image src="/icons/chevron-right.svg" alt="chevron" width={18} height={18}/>
-                    </a>
+                    </Link>
                 </div>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6'>

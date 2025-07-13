@@ -14,7 +14,7 @@ export default function Footer() {
     ]
 
     return (
-        <footer className="bg-[#091B2B] border-t border-[#4B4B4B] text-white w-full py-24 relative overflow-hidden z-0">
+        <footer className="bg-[#060E06] border-t border-[#4B4B4B] text-white w-full py-24 relative overflow-hidden z-0">
             <div className="container xl:max-w-screen-xl mx-auto flex flex-col md:flex-row items-start justify-between gap-16 md:gap-8 px-4">
                 <div className="flex flex-col gap-12 max-w-[400px]">
                     <div className="flex flex-col items-start justify-start gap-4">
