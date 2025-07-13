@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { Link } from '@/i18n/navigation'
 
 type NewsCardProps = {
     title: string;
@@ -29,10 +30,10 @@ export default function NewsCard({ title, description, date, imageUrl, redirectL
                 <p className='text-[#666666]'>{description}</p>
             </div>
 
-            <a href={redirectLink} className='text-[#001D3D] font-medium flex items-center gap-2'>
+            <Link href={redirectLink} className='text-[#001D3D] font-medium flex items-center gap-2'>
                 Citește mai mult
                 <Image src="/icons/arrow-up-right.svg" alt="chevron" width={18} height={17} />
-            </a>
+            </Link>
         </div>
     );
 }
