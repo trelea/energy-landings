@@ -17,7 +17,7 @@
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
+    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul  energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
@@ -56,8 +56,8 @@
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
+    "title": "Începe Acum",
+    "subtitle": "Contactează-ne pentru o ofertă personalizată, consultanță sau întrebări despre soluțiile fotovoltaice.",
     "mail": "solotrans-agro@mail.ru",
     "phone": "(022) 35-40-81",
     "button": "Support Clienți",
@@ -71,14 +71,14 @@
     "submitButton": "Trimite",
 
     "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
+    "subdescription1": "Îți răspundem în maxim 24 de ore la orice solicitare: cerere de ofertă, întrebare tehnică sau detalii despre instalare.",
 
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
+    "subtitle2": "Consultanță Personalizată",
+    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu explicații transparente despre costuri, randament și beneficii reale.",
 
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
-  },
+    "subtitle3": "Asistență post-contract (B2B)",
+    "subdescription3": "Oferim suport continuu după semnare: implementare rapidă, coordonare tehnică și livrări eficiente de energie."
+ },
   "Footer": {
     "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
     "sitemap": "Harta Site-ului",
@@ -90,8 +90,8 @@
     "link5": "Contact"
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "title": "Despre noi – SOLOTRANS-AGRO",
+    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova, activă în domeniile energiei regenerabile și agriculturii, cu un angajament ferm pentru sustenabilitate, inovație și eficiență. Cu sediul central în municipiul Chișinău și investiții strategice în infrastructură energetică, compania contribuie activ la tranziția verde a țării și la reducerea amprentei de carbon.\n\nÎn comuna Heciul Nou, raionul Sîngerei, operăm o centrală electrică fotovoltaică de ultimă generație, cu o putere instalată de 6600 kW. Această unitate produce energie 100% regenerabilă, utilizând tehnologii moderne precum panouri fotovoltaice performante, invertoare trifazate HUAWEI ON-GRID, stații de transformare de înaltă fiabilitate și sisteme inteligente de monitorizare.\n\nSuntem deținători ai licenței oficiale pentru producerea energiei electrice din surse regenerabile, emisă de ANRE, valabilă până în anul 2049. Acest cadru legal ne permite să livrăm energie verde în rețelele naționale și să încheiem parteneriate strategice cu operatori economici, autorități publice și alte entități interesate de soluții energetice curate și eficiente.\n\n🔋 Misiunea noastră\nMisiunea SOLOTRANS-AGRO este de a oferi soluții concrete pentru un viitor energetic sustenabil în Moldova. Ne bazăm pe transparență, calitate tehnică și respect față de mediu, dezvoltând servicii care sprijină tranziția de la combustibili fosili la surse regenerabile.\n\n🌍 Ce oferim:\nProducerea și livrarea energiei electrice regenerabile\n\nContracte de parteneriat (PPA) pentru alimentare directă cu energie solară\n\nConsultanță tehnică pentru integrarea soluțiilor fotovoltaice\n\nSuport pentru proiecte ecologice și sociale cu impact pozitiv în comunități\n\n👥 Echipa noastră\nAvem o echipă de profesioniști specializați în domeniul energetic, inginerie electrică și management de proiect. Fiecare proiect implementat de SOLOTRANS-AGRO este ghidat de excelență operațională, integritate și eficiență energetică.\n\nNe propunem să devenim un model de referință pentru energia solară din Republica Moldova, oferind nu doar electricitate curată, ci și valoare adăugată pentru societate și economie.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
