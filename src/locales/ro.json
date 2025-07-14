@@ -4,42 +4,42 @@
     "navlink2": "Despre Noi",
     "navlink3": "Servicii",
     "navlink4": "Noutăți",
-    "button": "Obține Consultanță"
+    "button": "Solicită Ofertă"
   },
   "Hero": {
     "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
-    "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "title1": "Viitorul Verde Începe Azi",
+    "cta": "Solicită Consultanță",
+    "motto": "“Energie curată pentru o lume mai bună.”",
+    "author": "— Echipa MORE POWER SRL",
+    "cta2": "Proiectăm Soluții Durabile",
+    "subtitle": "Producem energie electrică din surse regenerabile, susținând tranziția către un viitor sustenabil."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
-    "label1": "Economii generate",
-    "label2": "Sisteme instalate",
-    "label3": "Clienți mulțumiți"
+    "description": "MORE POWER SRL este o companie specializată în producerea energiei electrice din surse regenerabile. Sediul nostru se află în s. Țaul, raionul Dondușeni, Republica Moldova (cod poștal MD-5141). Administrator: Ciobanu Angela. Contact: Tel. +373 697 86 851, Email: srl.morepower@gmail.com.",
+    "label1": "Energie produsă",
+    "label2": "Proiecte realizate",
+    "label3": "Parteneriate active"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi energia regenerabilă",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "title": "Sustenabilitate Totală",
+        "description": "Producem energie 100% verde, fără emisii poluante, protejând mediul înconjurător."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "title": "Reduceri Pe Termen Lung",
+        "description": "Investiția în energie regenerabilă înseamnă economie constantă și stabilitate energetică."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "title": "Control și Independență",
+        "description": "Devii producător al propriei energii și reduci dependența de surse externe."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Parteneriat Fiabil",
+        "description": "Lucrăm transparent, profesionist și cu responsabilitate la fiecare proiect."
       }
     }
   },
@@ -47,40 +47,40 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Gata de tranziția energetică?",
+    "subtitle": "Contactează-ne pentru o ofertă personalizată și fă primul pas spre energie durabilă.",
+    "button": "Consultă un Specialist"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din domeniul solar",
-    "button": "Vezi tot"
+    "title": "Ultimele noutăți din energie verde",
+    "button": "Vezi toate"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "solotrans-agro@mail.ru",
-    "phone": "(022) 35-40-81",
-    "button": "Support Clienți",
-    "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
+    "title": "Hai să discutăm",
+    "subtitle": "Scrie-ne pentru o ofertă sau informații despre energia regenerabilă.",
+    "mail": "srl.morepower@gmail.com",
+    "phone": "+37369786851",
+    "button": "Contact Suport",
+    "formTitle": "Trimite un mesaj",
+    "formSubtitle": "Îți răspundem în cel mai scurt timp",
     "nameLabel": "Nume",
     "surnameLabel": "Prenume",
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
-    "messageLabel": "Cum te putem ajuta?",
+    "messageLabel": "Mesajul tău",
     "submitButton": "Trimite",
 
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
+    "subtitle1": "Răspuns Rapid",
+    "subdescription1": "Echipa noastră îți răspunde în cel mult 24h, cu soluții clare și relevante.",
 
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
+    "subtitle2": "Expertiză Reală",
+    "subdescription2": "Îți oferim soluții personalizate pentru proiectul tău energetic, fără complicații.",
 
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle3": "Asistență Completă",
+    "subdescription3": "Suntem alături de tine de la idee până la implementare și întreținere."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "MORE POWER SRL • s. Țaul, rl- Dondușeni • TVA 5000417 • C/F 1021604000149 • IBAN MD36ML000000022510211657 • BC Moldindconbank S.A. sucursala Bălți",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -90,8 +90,8 @@
     "link5": "Contact"
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "title": "Cine suntem",
+    "description": "MORE POWER SRL contribuie activ la tranziția energetică a Republicii Moldova prin soluții sustenabile de producere a energiei. Cu o echipă motivată și proiecte bine implementate, promovăm un viitor verde și eficient energetic.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -102,36 +102,35 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Procesul de instalare",
+    "title": "Cum lucrăm",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "title": "Consultanță Inițială",
+        "description": "Discutăm obiectivele tale și identificăm cea mai bună soluție pentru proiectul energetic.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuita"
+        "button": "Solicită Discuție"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "title": "Implementare Eficientă",
+        "description": "Coordonăm toate etapele de proiectare, execuție și integrare a sistemului energetic.",
         "image": "/about/process/step2.svg",
-        "button": "Oferte Speciale"
+        "button": "Inițiază Proiectul"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "title": "Monitorizare și Suport",
+        "description": "Asigurăm monitorizarea post-instalare și suportul necesar pentru eficiență continuă.",
         "image": "/about/process/step3.svg",
-        "button": "Montare Profesionistă"
+        "button": "Suport Tehnic"
       }
     ]
   },
   "Services": {
-    "title": "Serviciile Noastre"
+    "title": "Ce oferim"
   },
   "News": {
     "title": "Noutăți",
-
-    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogs": "Află ce e nou în lumea energiei verzi",
+    "moreBlogsDescription": "Vezi articole, analize și sfaturi despre energie regenerabilă și cum poate fi valorificată eficient în Republica Moldova."
   },
   "LocaleSwitcher": {
     "ro": "Română",

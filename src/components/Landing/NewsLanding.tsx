@@ -21,7 +21,7 @@ export default async function NewsLanding() {
                 <div className='flex justify-between items-center gap-2 w-full'>
                     <span className='font-medium text-xl lg:text-2xl'>{t('title')}</span>
                     
-                    <Link href='/blogs' className='flex gap-1 text-[#4CAF50] whitespace-nowrap'>
+                    <Link href='/blogs' className='flex gap-1 text-[#00BCD4] whitespace-nowrap'>
                         <span className='font-medium'>{t('button')}</span>
                         <Image src="/icons/chevron-right.svg" alt="chevron" width={18} height={18}/>
                     </Link>
