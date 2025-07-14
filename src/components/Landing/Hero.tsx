@@ -33,16 +33,12 @@ export default function Hero() {
         </div>
 
         <div className="container flex justify-between mx-auto my-10 px-10">
-          {/* <div className="flex flex-col justify-start gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-4 rounded-xl backdrop-blur-sm max-w-[310px] h-full">
-            <div className="flex items-center gap-2">
-              <div className="bg-white w-1 h-6 rounded-full rotate-[35deg]"></div>
-              <div className="bg-white w-1 h-6 rounded-full rotate-[35deg]"></div>
-            </div>
+          <div className="flex flex-col justify-start gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-4 rounded-xl backdrop-blur-sm max-w-[310px] h-full">
             <div className="flex flex-col items-end gap-2">
               <span>{t('motto')}</span>
               <span>{t('author')}</span>
             </div>
-          </div> */}
+          </div>
 
           <div className="hidden lg:flex flex-col justify-start gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-4 rounded-xl backdrop-blur-sm max-w-[310px] translate-y-10 h-full">
             <span className="text-lg font-medium">{t('cta2')}</span>

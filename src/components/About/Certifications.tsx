@@ -55,7 +55,7 @@ export default function Certifications() {
             {/* Modal */}
             {selectedImage && (
                 <div 
-                    className='fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4'
+                    className='fixed inset-0 backdrop-blur-md bg-opacity-75 flex items-center justify-center z-50 p-4'
                     onClick={closeModal}
                 >
                     <div className='relative max-w-4xl max-h-full'>
@@ -69,8 +69,8 @@ export default function Certifications() {
                             src={selectedImage.src}
                             alt={selectedImage.alt}
                             className='max-w-full max-h-full object-contain'
-                            width={800}
-                            height={1200}
+                            width={550}
+                            height={500}
                         />
                     </div>
                 </div>
