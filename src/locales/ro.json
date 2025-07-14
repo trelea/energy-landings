@@ -84,7 +84,11 @@
     "link2": "Despre Noi",
     "link3": "Servicii",
     "link4": "Noutăți",
-    "link5": "Contact"
+    "link5": "Contact",
+    "privacyPolicy": "Politica de Confidențialitate",
+    "termsOfService": "Termeni și Condiții",
+    "privacyPolicyContent": "Politica de confidențialitate descrie modul în care colectăm, utilizăm și protejăm informațiile personale ale utilizatorilor platformei noastre. Ne angajăm să respectăm confidențialitatea datelor și să aplicăm măsuri tehnice și organizatorice adecvate pentru protejarea acestora.\n\nColectăm doar datele strict necesare pentru funcționarea serviciilor, cum ar fi nume, prenume, email, telefon, IP și date de navigare. Acestea sunt utilizate exclusiv pentru comunicare, procesarea solicitărilor și îmbunătățirea experienței utilizatorului.\n\nNu transmitem datele personale către terți, cu excepția cazurilor cerute de lege sau necesare pentru furnizarea serviciilor. Utilizatorii au dreptul de a solicita accesul, corectarea, ștergerea sau limitarea prelucrării datelor lor.\n\nPrin utilizarea platformei, sunteți de acord cu această politică. Politica poate fi actualizată periodic; vă recomandăm să reveniți pentru a verifica cea mai recentă versiune.",
+    "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
     "title": "Povestea Noastră",
