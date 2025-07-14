@@ -32,7 +32,7 @@ export default function Contact() {
   };
 
   return (
-    <div className='bg-gradient-to-t from-[#DBFFDD] to-white w-full py-20'>
+    <div className='bg-gradient-to-t from-[#D8DEFF] to-white w-full py-20'>
       <div id='contact' className="container xl:max-w-screen-xl w-full mx-auto px-4">
         <div className='flex gap-8 lg:gap-14 justify-between items-center flex-col lg:flex-row'>
           <div className="flex flex-col items-start justify-center gap-14 w-full">
@@ -107,7 +107,7 @@ export default function Contact() {
             </div>
             <button
               type="submit"
-              className='bg-[#4CAF50] text-white ps-6 p-3 rounded-full w-full flex items-center justify-between gap-2 hover:bg-[#4caf4fde]'
+              className='bg-[#3F51B5] text-white ps-6 p-3 rounded-full w-full flex items-center justify-between gap-2 hover:bg-[#3f51b5dc]'
             >
               <span className='font-medium'>{t('submitButton')}</span>
               <Image src="/icons/arrow-up-empty.svg" alt="arrow" width={34} height={34} />

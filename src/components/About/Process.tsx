@@ -21,7 +21,7 @@ export default function Process() {
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.0.title')}</span>
               <span>{t('steps.0.description')}</span>
-              <a href="#" className="text-[#4CAF50] font-medium flex items-center gap-2">
+              <a href="#" className="text-[#3F51B5] font-medium flex items-center gap-2">
                 {t('steps.0.button')}
                 <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
               </a>
@@ -39,7 +39,7 @@ export default function Process() {
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.1.title')}</span>
               <span>{t('steps.1.description')}</span>
-              <a href="#" className="text-[#4CAF50] font-medium flex items-center gap-2">
+              <a href="#" className="text-[#3F51B5] font-medium flex items-center gap-2">
                 {t('steps.1.button')}
                 <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
               </a>
@@ -57,7 +57,7 @@ export default function Process() {
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.2.title')}</span>
               <span>{t('steps.2.description')}</span>
-              <a href="#" className="text-[#4CAF50] font-medium flex items-center gap-2">
+              <a href="#" className="text-[#3F51B5] font-medium flex items-center gap-2">
                 {t('steps.2.button')}
                 <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
               </a>

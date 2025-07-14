@@ -7,39 +7,39 @@
     "button": "Obține Consultanță"
   },
   "Hero": {
-    "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
-    "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "label": "Transport Internațional",
+    "title1": "Logistică Modernă și Sigură",
+    "cta": "Contactează-ne",
+    "motto": "“Transportul eficient pornește de la încredere și precizie.”",
+    "author": "— Echipa IMPORTEX-TRANS SRL",
+    "cta2": "Transportăm Cu Responsabilitate",
+    "subtitle": "Oferim servicii de transport internațional și logistică de încredere, adaptate nevoilor fiecărui client."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
-    "label1": "Economii generate",
-    "label2": "Sisteme instalate",
-    "label3": "Clienți mulțumiți"
+    "description": "SRL IMPORTEX-TRANS este o companie de transport internațional cu sediul în or. Edineț, Republica Moldova. Adrese: str. Florar 76 (corespondență), str. Hotinu lui 140 (juridică). Administrator: Scutari Vasile. Contact: Tel. +373 (699) 89933, Email: importex-trans@mail.ru.",
+    "label1": "Destinații acoperite",
+    "label2": "Transporturi efectuate",
+    "label3": "Clienți satisfăcuți"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi IMPORTEX-TRANS",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "title": "Experiență în domeniu",
+        "description": "Cu ani de activitate în transport, oferim servicii rapide și fiabile oriunde în Europa."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "title": "Soluții personalizate",
+        "description": "Adaptăm fiecare transport cerințelor tale specifice, indiferent de volum sau destinație."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "title": "Siguranță garantată",
+        "description": "Mărfurile tale sunt transportate în condiții sigure, cu monitorizare permanentă."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Partener de încredere",
+        "description": "Suntem alături de clienții noștri cu transparență, promptitudine și comunicare eficientă."
       }
     }
   },
@@ -47,40 +47,37 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Ai nevoie de transport internațional?",
+    "subtitle": "Contactează IMPORTEX-TRANS pentru o ofertă personalizată și o colaborare de încredere.",
+    "button": "Solicită Ofertă"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din domeniul solar",
+    "title": "Ultimele noutăți din logistică",
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "solotrans-agro@mail.ru",
-    "phone": "(022) 35-40-81",
+    "title": "Contactează-ne",
+    "subtitle": "Suntem disponibili pentru solicitări de transport, colaborări și informații suplimentare.",
+    "mail": "importex-trans@mail.ru",
+    "phone": "+37369989933",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
+    "formSubtitle": "Suntem disponibili oricând pentru întrebări",
     "nameLabel": "Nume",
     "surnameLabel": "Prenume",
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
-    "messageLabel": "Cum te putem ajuta?",
+    "messageLabel": "Mesajul tău",
     "submitButton": "Trimite",
-
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
-
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
-
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle1": "Răspuns Prompt",
+    "subdescription1": "Ne angajăm să răspundem solicitărilor tale cât mai repede posibil.",
+    "subtitle2": "Colaborare Transparentă",
+    "subdescription2": "Oferim claritate contractuală, respectarea termenelor și comunicare directă.",
+    "subtitle3": "Suport Permanent",
+    "subdescription3": "Suntem alături de tine înainte, în timpul și după efectuarea transportului."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "IMPORTEX-TRANS SRL • str. Florar 76 / str. Hotinu lui 140, Edineț • TVA 5500705 • C/F 1008604005635 • BC Victoriabank SA • SWIFT VICBMD2X",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -91,7 +88,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "description": "IMPORTEX-TRANS SRL este un nume de încredere în transportul internațional. Cu o echipă dedicată și flotă adaptată, livrăm rapid și în siguranță mărfurile tale oriunde în Europa.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -102,25 +99,25 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Procesul de instalare",
+    "title": "Cum lucrăm",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "title": "Evaluare rapidă",
+        "description": "Discutăm detaliile comenzii tale și oferim o soluție optimă de transport.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuita"
+        "button": "Solicită Ofertă"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "title": "Planificare și organizare",
+        "description": "Stabilim rutele, documentele și pregătirile pentru un transport fără griji.",
         "image": "/about/process/step2.svg",
-        "button": "Oferte Speciale"
+        "button": "Planificare Logistică"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "title": "Livrare și feedback",
+        "description": "Livrăm marfa și urmărim satisfacția clientului. Serviciul nostru nu se oprește la descărcare.",
         "image": "/about/process/step3.svg",
-        "button": "Montare Profesionistă"
+        "button": "Transport Finalizat"
       }
     ]
   },
@@ -129,9 +126,8 @@
   },
   "News": {
     "title": "Noutăți",
-
-    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogs": "Vezi ultimele articole despre logistică, transport și experiențele clienților.",
+    "moreBlogsDescription": "Descoperă noutăți relevante despre piața transporturilor, sfaturi utile și inițiativele IMPORTEX-TRANS."
   },
   "LocaleSwitcher": {
     "ro": "Română",
