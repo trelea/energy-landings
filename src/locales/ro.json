@@ -4,83 +4,80 @@
     "navlink2": "Despre Noi",
     "navlink3": "Servicii",
     "navlink4": "Noutăți",
-    "button": "Obține Consultanță"
+    "button": "Solicită Ofertă"
   },
   "Hero": {
     "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
-    "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "title1": "Generăm Energie din Natură",
+    "cta": "Solicită Consultanță",
+    "motto": "“Puterea naturii, transformată în energie curată.”",
+    "author": "— Echipa WINDRISE ENERGY SRL",
+    "cta2": "Viitorul începe cu energia verde",
+    "subtitle": "WINDRISE ENERGY SRL produce energie electrică exclusiv din surse regenerabile, contribuind activ la un mediu mai curat și sustenabil."
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
-    "label1": "Economii generate",
-    "label2": "Sisteme instalate",
-    "label3": "Clienți mulțumiți"
+    "description": "WINDRISE ENERGY SRL este o companie dedicată producției de energie electrică din surse regenerabile. Ne axăm pe soluții sustenabile care reduc impactul asupra mediului. Contact: stalcom-bm@mail.ru, Tel. 079446120 / 079100015.",
+    "label1": "MWh generați",
+    "label2": "Proiecte active",
+    "label3": "Parteneriate ecologice"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi WINDRISE ENERGY",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "title": "Energie Verde Garantată",
+        "description": "Folosim doar surse regenerabile pentru a produce energie electrică fără emisii de carbon."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "title": "Impact Minim asupra Mediului",
+        "description": "Tehnologiile noastre sunt prietenoase cu natura și sprijină biodiversitatea locală."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "title": "Experiență și Viziune",
+        "description": "Suntem dedicați tranziției către un viitor sustenabil și modern în domeniul energetic."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Dezvoltare Continuă",
+        "description": "Investim constant în inovație și extinderea capacităților de producție."
       }
     }
   },
   "ServicesLanding": {
-    "title": "Serviciile Noastre"
+    "title": "Ce Facem"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Vrei să colaborezi cu un producător de energie regenerabilă?",
+    "subtitle": "Suntem deschiși parteneriatelor, proiectelor comune și consultanței în domeniul energiei verzi.",
+    "button": "Scrie-ne Acum"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din domeniul solar",
-    "button": "Vezi tot"
+    "title": "Noutăți din sectorul energiei regenerabile",
+    "button": "Află Mai Multe"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "solotrans-agro@mail.ru",
-    "phone": "(022) 35-40-81",
-    "button": "Support Clienți",
-    "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
+    "title": "Ia Legătura cu Noi",
+    "subtitle": "Trimite-ne un mesaj pentru parteneriate, informații sau colaborări tehnice.",
+    "mail": "stalcom-bm@mail.ru",
+    "phone": "079446120 / 079100015",
+    "button": "Trimite Mesaj",
+    "formTitle": "Contactează WINDRISE ENERGY",
+    "formSubtitle": "Completează formularul și te vom contacta în cel mai scurt timp.",
     "nameLabel": "Nume",
     "surnameLabel": "Prenume",
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
-    "messageLabel": "Cum te putem ajuta?",
+    "messageLabel": "Mesajul tău",
     "submitButton": "Trimite",
-
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
-
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
-
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle1": "Răspundem Prompt",
+    "subdescription1": "Ne asigurăm că fiecare solicitare primește un răspuns complet și rapid.",
+    "subtitle2": "Energie Clară",
+    "subdescription2": "Explicăm transparent toate procesele, avantajele și impactul colaborării.",
+    "subtitle3": "Parteneriate Durabile",
+    "subdescription3": "Suntem alături de tine pe termen lung, dincolo de un simplu proiect."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "WINDRISE ENERGY SRL • Energie 100% regenerabilă • Contact: 079446120 / 079100015 • Email: stalcom-bm@mail.ru",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -91,7 +88,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "description": "WINDRISE ENERGY SRL a fost fondată din dorința de a accelera tranziția spre o economie verde. Cu tehnologii moderne și o echipă pasionată, transformăm resursele naturale în energie durabilă pentru comunități și afaceri.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -102,25 +99,25 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Procesul de instalare",
+    "title": "Cum Lucrăm",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "title": "Evaluare și Potențial",
+        "description": "Identificăm zonele cu potențial solar sau eolian și stabilim fezabilitatea producției.",
         "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuita"
+        "button": "Analiză Inițială"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "title": "Proiectare și Implementare",
+        "description": "Proiectăm soluții energetice durabile și instalăm echipamente moderne de captare și conversie.",
         "image": "/about/process/step2.svg",
-        "button": "Oferte Speciale"
+        "button": "Plan Tehnic"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "title": "Monitorizare și Livrare",
+        "description": "Gestionăm producția de energie, monitorizăm în timp real și oferim rapoarte partenerilor noștri.",
         "image": "/about/process/step3.svg",
-        "button": "Montare Profesionistă"
+        "button": "Producție Activă"
       }
     ]
   },
@@ -129,9 +126,8 @@
   },
   "News": {
     "title": "Noutăți",
-
-    "moreBlogs" : "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription" : "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogs": "Citește cele mai recente articole despre energie regenerabilă.",
+    "moreBlogsDescription": "Vezi studii de caz, noutăți legislative, inițiative de mediu și actualizări despre proiectele WINDRISE ENERGY."
   },
   "LocaleSwitcher": {
     "ro": "Română",

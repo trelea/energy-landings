@@ -8,8 +8,8 @@ type ServiceLandingCardProps = {
 
 export default function ServicesLandingCard({ title, description, redirectLink }: ServiceLandingCardProps) {
     return (
-        <a href={redirectLink} className='cursor-pointer flex flex-col gap-6 items-start justify-end p-6 bg-gradient-to-b from-[#f1f6fc] to-[#DBFFDD] rounded-xl aspect-square sm:aspect-video lg:aspect-square w-full'>
-            <div className='flex items-center justify-center p-4 bg-gradient-to-b from-[#4CAF50] to-[#38803A] rounded-xl'>
+        <a href={redirectLink} className='cursor-pointer flex flex-col gap-6 items-start justify-end p-6 bg-gradient-to-b from-[#F9FCFF] to-[#E6F2FF] rounded-xl aspect-square sm:aspect-video lg:aspect-square w-full'>
+            <div className='flex items-center justify-center p-4 bg-gradient-to-b from-[#007BFF] to-[#025FC3] rounded-xl'>
                 <Image src={'/icons/star.svg'} width={24} height={24} alt="Solar Panel Icon" />
             </div>
             <div className='flex flex-col gap-4'>

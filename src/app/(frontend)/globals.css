@@ -19,9 +19,9 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
 }
 
 .cta-block {
-  background: radial-gradient(64% 64% at 50% 36%, #4CAF50, #38803A 100%);
+  background: radial-gradient(64% 64% at 50% 36%, #1C83F3, #055BB7 100%);
 }
