@@ -16,7 +16,7 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full"
+              className="w-full aspect-video object-cover rounded-lg"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.0.title')}</span>
@@ -34,7 +34,7 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full lg:order-1"
+              className="w-full lg:order-1 aspect-video object-cover rounded-lg"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.1.title')}</span>
@@ -52,7 +52,7 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full"
+              className="w-full aspect-video object-cover rounded-lg"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.2.title')}</span>

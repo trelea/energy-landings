@@ -16,11 +16,11 @@
     "subtitle": "WINDRISE ENERGY SRL produce energie electrică exclusiv din surse regenerabile, contribuind activ la un mediu mai curat și sustenabil."
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "WINDRISE ENERGY SRL este o companie dedicată producției de energie electrică din surse regenerabile. Ne axăm pe soluții sustenabile care reduc impactul asupra mediului. Contact: stalcom-bm@mail.ru, Tel. 079446120 / 079100015.",
-    "label1": "MWh generați",
-    "label2": "Proiecte active",
-    "label3": "Parteneriate ecologice"
+    "title": "Despre WindRise Energy",
+    "description": "WindRise Energy este un producător independent de energie electrică din surse eoliene, cu sediul în Republica Moldova. Compania a fost fondată din dorința de a contribui activ la tranziția energetică a regiunii noastre, bazându-se pe tehnologii moderne și o viziune pe termen lung.\n\nOperăm în zone cu potențial eolian ridicat și dezvoltăm infrastructură scalabilă care permite conectarea eficientă la rețelele naționale. ",
+    "label1": "MWh produși anual",
+    "label2": "Zone operaționale",
+    "label3": "Parteneri strategici"
   },
   "WhyUs": {
     "title": "De ce să alegi WINDRISE ENERGY",
@@ -44,7 +44,7 @@
     }
   },
   "ServicesLanding": {
-    "title": "Ce Facem"
+    "title": "Servicii"
   },
   "CtaBlock": {
     "title": "Vrei să colaborezi cu un producător de energie regenerabilă?",
@@ -56,26 +56,26 @@
     "button": "Află Mai Multe"
   },
   "Contact": {
-    "title": "Ia Legătura cu Noi",
-    "subtitle": "Trimite-ne un mesaj pentru parteneriate, informații sau colaborări tehnice.",
-    "mail": "stalcom-bm@mail.ru",
-    "phone": "079446120 / 079100015",
-    "button": "Trimite Mesaj",
-    "formTitle": "Contactează WINDRISE ENERGY",
-    "formSubtitle": "Completează formularul și te vom contacta în cel mai scurt timp.",
-    "nameLabel": "Nume",
-    "surnameLabel": "Prenume",
-    "emailLabel": "Email",
-    "phoneLabel": "Telefon",
-    "messageLabel": "Mesajul tău",
-    "submitButton": "Trimite",
-    "subtitle1": "Răspundem Prompt",
-    "subdescription1": "Ne asigurăm că fiecare solicitare primește un răspuns complet și rapid.",
-    "subtitle2": "Energie Clară",
-    "subdescription2": "Explicăm transparent toate procesele, avantajele și impactul colaborării.",
-    "subtitle3": "Parteneriate Durabile",
-    "subdescription3": "Suntem alături de tine pe termen lung, dincolo de un simplu proiect."
-  },
+  "title": "Contactați-ne",
+  "subtitle": "Suntem disponibili pentru colaborări, parteneriate sau întrebări legate de energia eoliană.",
+  "mail": "stalcom-bm@mail.ru",
+  "phone": "079446120 / 079100015",
+  "button": "Trimite Mesaj",
+  "formTitle": "Ia legătura cu WINDRISE ENERGY",
+  "formSubtitle": "Completează formularul și te vom contacta cât mai curând.",
+  "nameLabel": "Prenume",
+  "surnameLabel": "Nume",
+  "emailLabel": "Email",
+  "phoneLabel": "Telefon",
+  "messageLabel": "Mesajul tău",
+  "submitButton": "Trimite",
+  "subtitle1": "Comunicare directă",
+  "subdescription1": "Răspundem rapid și eficient la toate solicitările primite, cu accent pe claritate și profesionalism.",
+  "subtitle2": "Consultanță clară",
+  "subdescription2": "Explicăm transparent fiecare pas, avantaj și beneficiu al cooperării.",
+  "subtitle3": "Colaborare pe termen lung",
+  "subdescription3": "Suntem alături de tine pe durata întregului proiect și dincolo de acesta."
+},
   "Footer": {
     "description": "WINDRISE ENERGY SRL • Energie 100% regenerabilă • Contact: 079446120 / 079100015 • Email: stalcom-bm@mail.ru",
     "sitemap": "Harta Site-ului",
@@ -91,45 +91,46 @@
     "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "WINDRISE ENERGY SRL a fost fondată din dorința de a accelera tranziția spre o economie verde. Cu tehnologii moderne și o echipă pasionată, transformăm resursele naturale în energie durabilă pentru comunități și afaceri.",
-    "image": "/about/our-story.png"
-  },
-  "Certifications": {
-    "title": "Certificări și Acreditări",
-    "image1": "/about/certifications/cert1.png",
-    "image2": "/about/certifications/cert2.png",
-    "image3": "/about/certifications/cert3.png",
-    "image4": "/about/certifications/cert4.png"
-  },
-  "Process": {
-    "title": "Cum Lucrăm",
-    "steps": [
-      {
-        "title": "Evaluare și Potențial",
-        "description": "Identificăm zonele cu potențial solar sau eolian și stabilim fezabilitatea producției.",
-        "image": "/about/process/step1.svg",
-        "button": "Analiză Inițială"
-      },
-      {
-        "title": "Proiectare și Implementare",
-        "description": "Proiectăm soluții energetice durabile și instalăm echipamente moderne de captare și conversie.",
-        "image": "/about/process/step2.svg",
-        "button": "Plan Tehnic"
-      },
-      {
-        "title": "Monitorizare și Livrare",
-        "description": "Gestionăm producția de energie, monitorizăm în timp real și oferim rapoarte partenerilor noștri.",
-        "image": "/about/process/step3.svg",
-        "button": "Producție Activă"
-      }
-    ]
-  },
+  "title": "Despre Noi",
+  "description": "WindRise Energy este o companie energetică inovatoare din Republica Moldova, specializată în producerea de energie electrică din surse regenerabile, în special din vânt. Ne propunem să facem parte dintr-o nouă eră energetică, bazată pe sustenabilitate, tehnologie și responsabilitate ecologică. Obiectivele noastre sunt situate în nordul țării — în zone cu activitate eoliană ridicată, ceea ce ne permite să asigurăm o generare fiabilă și stabilă.\n\nCe oferim\n\nInginerie și expertiză — proiectăm soluții personalizate în funcție de caracteristicile terenului și condițiile climatice.\nAutomatizare și control — implementăm sisteme digitale de monitorizare, care urmăresc parametrii de funcționare în timp real.\nEficiență energetică — folosim turbine de ultimă generație, certificate conform standardelor europene.\nDezvoltare responsabilă — creăm locuri de muncă, colaborăm cu comunitățile locale și asigurăm un impact minim asupra naturii.\n\nMisiunea noastră\nSă contribuim la transformarea energetică a Republicii Moldova prin soluții fiabile, curate și scalabile bazate pe energia eoliană.\n\nInformații de contact\n\nEmail: stalcom-bm@mail.ru\n\nTelefon: 079446120 / 079100015\n\nDenumire oficială: WINDRISE ENERGY SRL\n\nRegiune: nordul Moldovei\n\nEchipele noastre includ ingineri, ecologi, manageri de proiect și specialiști tehnici cu o vastă experiență. Cu WindRise Energy, vântul devine energie, iar energia — viitor.",
+  "image": "/about/our-story.png"
+},
+"Certifications": {
+  "title": "Certificări și Licențe",
+  "image1": "/about/certifications/cert1.png",
+  "image2": "/about/certifications/cert2.png",
+  "image3": "/about/certifications/cert3.png",
+  "image4": "/about/certifications/cert4.png"
+},
+"Process": {
+  "title": "Vântul e resursa, energia e rezultatul",
+  "steps": [
+    {
+      "title": "Analiză și dezvoltare de proiecte",
+      "description": "Realizăm studii de vânt, măsurători și evaluări tehnico-economice. Propunem modele de conectare la rețea adaptate terenului și infrastructurii existente.",
+      "image": "/about/process/proces1.jpg",
+      "button": "Contactează-ne"
+    },
+    {
+      "title": "Montaj și punere în funcțiune",
+      "description": "Efectuăm instalarea turbinelor respectând toate standardele ecologice și tehnice. Asigurăm integrarea completă în sistemele de dispecerizare.",
+      "image": "/about/process/proces2.jpg",
+      "button": "Contactează-ne"
+    },
+    {
+      "title": "Operare și extindere",
+      "description": "Asigurăm funcționarea fiabilă a centralelor, actualizăm constant software-ul și creștem capacitatea acolo unde este necesar.",
+      "image": "/about/process/proces3.jpg",
+      "button": "Contactează-ne"
+    }
+  ]
+},
   "Services": {
     "title": "Serviciile Noastre"
   },
   "News": {
-    "title": "Noutăți",
+    "priviledge_title": "Informatii Privilegiate",
+    "general_title": "Noutăți Generale",
     "moreBlogs": "Citește cele mai recente articole despre energie regenerabilă.",
     "moreBlogsDescription": "Vezi studii de caz, noutăți legislative, inițiative de mediu și actualizări despre proiectele WINDRISE ENERGY."
   },
