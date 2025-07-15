@@ -30,7 +30,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
             <Image
               src={isDarkMode ? '/logos/logo-white.svg' : '/logos/logo-text.svg'}
               alt="Green Energy Logo"
-              width={150}
+              width={130}
               height={50}
             />
             {/* <h1 className="text-center font-bold text-xl text-white">LOGO</h1> */}
