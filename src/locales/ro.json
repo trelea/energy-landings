@@ -17,39 +17,39 @@
   },
   "AboutUs": {
     "title": "Despre compania noastră",
-    "description": "SRL IMPORTEX-TRANS este o companie de transport internațional cu sediul în or. Edineț, Republica Moldova. Adrese: str. Florar 76 (corespondență), str. Hotinu lui 140 (juridică). Administrator: Scutari Vasile. Contact: Tel. +373 (699) 89933, Email: importex-trans@mail.ru.",
+    "description": "Cu rădăcini solide în logistica internațională și o viziune clară spre tranziția energetică, Importex-Trans și-a extins activitatea spre producerea energiei din surse regenerabile – în special, energie eoliană.\n\nDezvoltăm și operăm parcuri eoliene moderne în Republica Moldova, folosind tehnologie de ultimă generație pentru a transforma vântul în energie electrică 100% verde. Ne implicăm activ în modernizarea energetică a țării prin soluții eficiente, fiabile și sustenabile.\n\nDescoperă cum energia eoliană devine o realitate accesibilă, sigură și profitabilă – alături de Importex-Trans.",
     "label1": "Destinații acoperite",
     "label2": "Transporturi efectuate",
     "label3": "Clienți satisfăcuți"
   },
   "WhyUs": {
-    "title": "De ce să alegi IMPORTEX-TRANS",
-    "points": {
-      "1": {
-        "title": "Experiență în domeniu",
-        "description": "Cu ani de activitate în transport, oferim servicii rapide și fiabile oriunde în Europa."
-      },
-      "2": {
-        "title": "Soluții personalizate",
-        "description": "Adaptăm fiecare transport cerințelor tale specifice, indiferent de volum sau destinație."
-      },
-      "3": {
-        "title": "Siguranță garantată",
-        "description": "Mărfurile tale sunt transportate în condiții sigure, cu monitorizare permanentă."
-      },
-      "4": {
-        "title": "Partener de încredere",
-        "description": "Suntem alături de clienții noștri cu transparență, promptitudine și comunicare eficientă."
-      }
+  "title": "De ce să alegi Importex Energy ca producător de energie regenerabilă",
+  "points": {
+    "1": {
+      "title": "Producție 100% din surse regenerabile",
+      "description": "Valorificăm energia vântului prin infrastructură modernă și tehnologii certificate, generând electricitate verde, fără emisii și fără impact negativ asupra mediului."
+    },
+    "2": {
+      "title": "Infrastructură eoliană de ultimă generație",
+      "description": "Operăm turbine de mare capacitate, conectate la sisteme inteligente de monitorizare, care asigură o producție stabilă, eficientă și adaptată cererii energetice actuale."
+    },
+    "3": {
+      "title": "Angajament pentru sustenabilitate",
+      "description": "Importex Energy contribuie activ la tranziția Republicii Moldova către un viitor energetic verde, reducând emisiile de carbon și susținând dezvoltarea economică durabilă."
+    },
+    "4": {
+      "title": "Transparență și parteneriate durabile",
+      "description": "Oferim condiții clare și stabile pentru partenerii noștri – de la investitori până la instituții publice. Ne bazăm pe încredere, responsabilitate și colaborare pe termen lung."
     }
-  },
+  }
+},
   "ServicesLanding": {
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ai nevoie de transport internațional?",
-    "subtitle": "Contactează IMPORTEX-TRANS pentru o ofertă personalizată și o colaborare de încredere.",
-    "button": "Solicită Ofertă"
+    "title": "Ești curios cum funcționează energia eoliană?",
+    "subtitle": "Discută cu specialiștii noștri și descoperă cum poți beneficia de soluții verzi eficiente și accesibile.",
+    "button": "Află mai multe"
   },
   "NewsLanding": {
     "title": "Ultimele noutăți din logistică",
@@ -91,45 +91,46 @@
     "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "IMPORTEX-TRANS SRL este un nume de încredere în transportul internațional. Cu o echipă dedicată și flotă adaptată, livrăm rapid și în siguranță mărfurile tale oriunde în Europa.",
-    "image": "/about/our-story.png"
-  },
-  "Certifications": {
-    "title": "Certificări și Acreditări",
-    "image1": "/about/certifications/cert1.png",
-    "image2": "/about/certifications/cert2.png",
-    "image3": "/about/certifications/cert3.png",
-    "image4": "/about/certifications/cert4.png"
-  },
-  "Process": {
-    "title": "Cum lucrăm",
-    "steps": [
-      {
-        "title": "Evaluare rapidă",
-        "description": "Discutăm detaliile comenzii tale și oferim o soluție optimă de transport.",
-        "image": "/about/process/step1.svg",
-        "button": "Solicită Ofertă"
-      },
-      {
-        "title": "Planificare și organizare",
-        "description": "Stabilim rutele, documentele și pregătirile pentru un transport fără griji.",
-        "image": "/about/process/step2.svg",
-        "button": "Planificare Logistică"
-      },
-      {
-        "title": "Livrare și feedback",
-        "description": "Livrăm marfa și urmărim satisfacția clientului. Serviciul nostru nu se oprește la descărcare.",
-        "image": "/about/process/step3.svg",
-        "button": "Transport Finalizat"
-      }
-    ]
-  },
+  "title": "Despre Importex Energy",
+  "description": "Importex Energy este o companie moldovenească dedicată exclusiv producției de energie electrică din surse regenerabile, concentrându-se pe eficiența și fiabilitatea energiei eoliene. Prin investiții strategice în nordul țării și implementarea celor mai avansate tehnologii din domeniu, ne poziționăm ca promotor al independenței energetice durabile.\n\nCe ne definește\n\nEtică – gestionăm procesele cu integritate și responsabilitate socială.\nTehnologie – folosim echipamente moderne, fiabile și conforme cu standardele europene.\nEco-conștiență – susținem un model energetic care protejează natura și reduce emisiile de carbon.\nColaborare – ne angajăm în parteneriate deschise și constructive cu actori din sectorul public și privat.\n\nÎnregistrată oficial în Republica Moldova, compania este condusă de echipa tehnică și managerială cu experiență în energie, proiecte industriale și dezvoltare durabilă. Importex Energy oferă o alternativă verde reală la sursele convenționale, printr-un model de business bazat pe stabilitate, profesionalism și transparență.\n\nDate de contact\n\nAdresa: str. Florar 76 / str. Hotinului 140, mun. Edineț, MD-4601\n\nTel: +373 (699) 89393\n\nEmail: importex-trans@mail.ru\n\nAdministrator: dl. Vasile Scutari",
+  "image": "/about/our-story.png"
+},
+"Certifications": {
+  "title": "Certificări și Acreditări",
+  "image1": "/about/certifications/cert1.png",
+  "image2": "/about/certifications/cert2.png",
+  "image3": "/about/certifications/cert3.png",
+  "image4": "/about/certifications/cert4.png"
+},
+"Process": {
+  "title": "Transformăm Vântul în Energie Curată",
+  "steps": [
+    {
+      "title": "Proiectare și Dezvoltare",
+      "description": "Identificăm zone cu potențial eolian crescut și realizăm proiecte personalizate, optimizate pentru integrare în sistemul național de electricitate.",
+      "image": "/about/process/proces1.jpg",
+      "button": "Contactează-ne"
+    },
+    {
+      "title": "Implementare Tehnologică",
+      "description": "Instalăm turbine eoliene performante, monitorizate digital și întreținute de echipe tehnice specializate, pentru performanță maximă și durabilitate.",
+      "image": "/about/process/proces2.jpg",
+      "button": "Contactează-ne"
+    },
+    {
+      "title": "Contribuție pentru Viitor",
+      "description": "Ne asumăm rolul de lider în schimbarea modelului energetic din Republica Moldova, promovând sursele regenerabile ca fundament pentru economie și mediu sănătos.",
+      "image": "/about/process/proces3.jpg",
+      "button": "Contactează-ne"
+    }
+  ]
+},
   "Services": {
     "title": "Serviciile Noastre"
   },
   "News": {
-    "title": "Noutăți",
+    "priviledge_title": "Informatii Privilegiate",
+    "general_title": "Noutăți Generale",
     "moreBlogs": "Vezi ultimele articole despre logistică, transport și experiențele clienților.",
     "moreBlogsDescription": "Descoperă noutăți relevante despre piața transporturilor, sfaturi utile și inițiativele IMPORTEX-TRANS."
   },
