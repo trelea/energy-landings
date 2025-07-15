@@ -9,7 +9,7 @@ type ServiceCardProps = {
 
 export default function ServiceCard({ title, description, imageUrl, redirectLink }: ServiceCardProps) {
     return (
-        <div className='flex flex-col gap-6 p-6 w-full bg-[#eeffee] border border-[#a9fca9] rounded-xl'>
+        <div className='flex flex-col gap-6 p-6 w-full bg-[#f6f6f6] border border-[#d0d0d0] rounded-xl'>
 
             <div className="relative w-full aspect-video rounded-lg overflow-hidden">
                 <Image

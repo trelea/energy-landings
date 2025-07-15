@@ -5,7 +5,7 @@ export default function OurStory() {
     const t = useTranslations('OurStory');
     
     return (
-        <div className='container  mx-auto px-4 py-10 lg:py-12'>
+        <div className='container max-w-screen-xl mx-auto px-4 py-10 lg:py-12'>
             <div className='flex flex-col gap-8 lg:gap-16 xl:items-center justify-center'>
                 <div className='flex flex-col gap-4 items-start text-left'>
                     <span className='font-semibold text-4xl lg:text-5xl'>{t('title')}</span>
