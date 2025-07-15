@@ -7,75 +7,75 @@
     "button": "Solicită Ofertă"
   },
   "Hero": {
-    "label": "Energie Regenerabilă",
-    "title1": "Viitorul Verde Începe Azi",
+    "label": "Producție și Comercializare Energie Electrică",
+    "title1": "Partenerul Tău în Soluții Energetice Durabile",
     "cta": "Solicită Consultanță",
-    "motto": "“Energie curată pentru o lume mai bună.”",
+    "motto": "“Energie fiabilă, livrată cu responsabilitate.”",
     "author": "— Echipa MORE POWER SRL",
-    "cta2": "Proiectăm Soluții Durabile",
-    "subtitle": "Producem energie electrică din surse regenerabile, susținând tranziția către un viitor sustenabil."
+    "cta2": "Generăm și Livrăm Energie",
+    "subtitle": "Oferim servicii complete de producere a energiei electrice din surse regenerabile, având ca obiectiv consolidarea securității energetice și dezvoltarea de parteneriate comerciale sustenabile."
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "MORE POWER SRL este o companie specializată în producerea energiei electrice din surse regenerabile. Sediul nostru se află în s. Țaul, raionul Dondușeni, Republica Moldova (cod poștal MD-5141). Administrator: Ciobanu Angela. Contact: Tel. +373 697 86 851, Email: srl.morepower@gmail.com.",
-    "label1": "Energie produsă",
-    "label2": "Proiecte realizate",
-    "label3": "Parteneriate active"
-  },
+  "title": "Profilul Companiei",
+  "description": "MORE POWER SRL este o companie privată din Republica Moldova, axată pe producerea energiei electrice și dezvoltarea de soluții sustenabile în domeniul energetic. Activitatea noastră este orientată spre operarea eficientă a capacităților energetice proprii și extinderea în zona comercializării directe a energiei. Punem accent pe inovație, fiabilitate și parteneriate strategice pe termen lung, contribuind activ la tranziția energetică a țării.",
+  "label1": "Capacitate Energetică Instalată",
+  "label2": "Proiecte Implementate",
+  "label3": "Parteneriate Strategice"
+},
   "WhyUs": {
-    "title": "De ce să alegi energia regenerabilă",
-    "points": {
-      "1": {
-        "title": "Sustenabilitate Totală",
-        "description": "Producem energie 100% verde, fără emisii poluante, protejând mediul înconjurător."
-      },
-      "2": {
-        "title": "Reduceri Pe Termen Lung",
-        "description": "Investiția în energie regenerabilă înseamnă economie constantă și stabilitate energetică."
-      },
-      "3": {
-        "title": "Control și Independență",
-        "description": "Devii producător al propriei energii și reduci dependența de surse externe."
-      },
-      "4": {
-        "title": "Parteneriat Fiabil",
-        "description": "Lucrăm transparent, profesionist și cu responsabilitate la fiecare proiect."
-      }
+  "title": "De ce să alegi MORE POWER",
+  "points": {
+    "1": {
+      "title": "Abordare completă în domeniul energetic",
+      "description": "Oferim un lanț complet de servicii — de la dezvoltarea infrastructurii și operarea capacităților până la producerea continuă și livrarea de energie electrică."
+    },
+    "2": {
+      "title": "Pregătiți pentru vânzare directă",
+      "description": "Compania noastră dezvoltă activ mecanismele juridice și comerciale necesare pentru încheierea contractelor de furnizare directă a energiei către clienți și parteneri."
+    },
+    "3": {
+      "title": "Stabilitate tehnologică",
+      "description": "Instalațiile noastre sunt proiectate și operate la standarde înalte de eficiență, siguranță și durabilitate energetică."
+    },
+    "4": {
+      "title": "Transparență și parteneriate reale",
+      "description": "Asigurăm condiții clare de colaborare, comunicare eficientă și o atitudine profesionistă în fiecare etapă a proiectului."
     }
-  },
+  }
+},
   "ServicesLanding": {
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Gata de tranziția energetică?",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată și fă primul pas spre energie durabilă.",
-    "button": "Consultă un Specialist"
+    "title": "Deschidem Noi Oportunități Energetice",
+    "subtitle": "Vă invităm să explorați posibilitățile de colaborare în producerea și livrarea energiei electrice. Contactați-ne pentru o discuție aplicată.",
+    "button": "Programează o Consultanță"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din energie verde",
-    "button": "Vezi toate"
+    "title": "Actualități și Perspective Energetice",
+    "button": "Accesează Toate Articolele"
   },
   "Contact": {
-    "title": "Hai să discutăm",
-    "subtitle": "Scrie-ne pentru o ofertă sau informații despre energia regenerabilă.",
-    "mail": "srl.morepower@gmail.com",
-    "phone": "+37369786851",
-    "button": "Contact Suport",
-    "formTitle": "Trimite un mesaj",
-    "formSubtitle": "Îți răspundem în cel mai scurt timp",
-    "nameLabel": "Nume",
-    "surnameLabel": "Prenume",
-    "emailLabel": "Email",
-    "phoneLabel": "Telefon",
-    "messageLabel": "Mesajul tău",
-    "submitButton": "Trimite",
-    "subtitle1": "Răspuns Rapid",
-    "subdescription1": "Echipa noastră îți răspunde în cel mult 24h, cu soluții clare și relevante.",
-    "subtitle2": "Expertiză Reală",
-    "subdescription2": "Îți oferim soluții personalizate pentru proiectul tău energetic, fără complicații.",
-    "subtitle3": "Asistență Completă",
-    "subdescription3": "Suntem alături de tine de la idee până la implementare și întreținere."
-  },
+  "title": "Contact Profesional",
+  "subtitle": "Pentru solicitări comerciale, parteneriate strategice sau colaborări tehnico-operaționale, echipa noastră vă stă la dispoziție.",
+  "mail": "srl.morepower@gmail.com",
+  "phone": "+37369786851",
+  "button": "Trimite Solicitarea",
+  "formTitle": "Trimite un Mesaj Oficial",
+  "formSubtitle": "Vă rugăm să completați formularul de mai jos; revenim în cel mai scurt timp cu un răspuns calificat.",
+  "nameLabel": "Nume",
+  "surnameLabel": "Prenume",
+  "emailLabel": "Email Profesional",
+  "phoneLabel": "Telefon de Contact",
+  "messageLabel": "Mesajul Dumneavoastră",
+  "submitButton": "Transmitere",
+  "subtitle1": "Răspuns în Termen Asumat",
+  "subdescription1": "Analizăm fiecare solicitare în cel mai scurt timp, asigurând un răspuns documentat în maximum 24 de ore lucrătoare.",
+  "subtitle2": "Dialog Aplicat",
+  "subdescription2": "Tratăm cu seriozitate fiecare propunere — fie că este vorba despre livrare de energie, proiecte comune sau consultanță tehnică.",
+  "subtitle3": "Colaborare pe Termen Lung",
+  "subdescription3": "Construim parteneriate durabile, oferind sprijin continuu de la faza de inițiere până la implementarea completă a soluției energetice."
+},
   "Footer": {
     "description": "MORE POWER SRL • s. Țaul, rl- Dondușeni • TVA 5000417 • C/F 1021604000149 • IBAN MD36ML000000022510211657 • BC Moldindconbank S.A. sucursala Bălți",
     "sitemap": "Harta Site-ului",
@@ -91,10 +91,10 @@
     "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
-    "title": "Cine suntem",
-    "description": "MORE POWER SRL contribuie activ la tranziția energetică a Republicii Moldova prin soluții sustenabile de producere a energiei. Cu o echipă motivată și proiecte bine implementate, promovăm un viitor verde și eficient energetic.",
-    "image": "/about/our-story.png"
-  },
+  "title": "Despre Noi",
+  "description": "MORE POWER SRL este o companie  specializată în producerea și dezvoltarea de soluții energetice bazate pe surse regenerabile — în special energie eoliană . Activăm cu încredere și responsabilitate în sectorul energiei verzi, oferind o alternativă durabilă și eficientă la sursele tradiționale de electricitate.\n\nFondată pe principii solide de etică profesională, inovație tehnologică și grijă față de mediu, compania noastră se implică activ în promovarea independenței energetice a Republicii Moldova. Prin investiții strategice și utilizarea celor mai noi tehnologii, asigurăm o producție stabilă, sigură și prietenoasă cu mediul.\n\n Activitatea noastră este concentrată în nordul țării, într-o regiune cu potențial eolian și solar semnificativ, ceea ce ne permite să generăm energie într-un mod fiabil și eficient, contribuind în mod real la diversificarea surselor de energie la nivel național.\n\nCe oferim\n\nInginerie și expertiză — proiectăm și dezvoltăm soluții personalizate de producere a energiei verzi, adaptate terenului, condițiilor climatice și cerințelor partenerilor.\nAutomatizare și control — utilizăm sisteme digitale moderne care monitorizează în timp real parametrii de producție, eficiență și funcționare.\n Tehnologie performantă — folosim turbine eoliene și  de ultimă generație, certificate conform normelor europene în vigoare.\n Dezvoltare responsabilă — ne implicăm în comunitățile locale, creăm locuri de muncă și asigurăm impact minim asupra mediului înconjurător.\n\n Misiunea noastră - Să accelerăm tranziția energetică a Republicii Moldova prin dezvoltarea de capacități de producție regenerabilă, care să fie fiabile, accesibile și sustenabile pe termen lung.\n\nCine suntem - Compania este  formată din ingineri specializați în energie regenerabilă, tehnicieni, ecologi și experți financiari. Toți membrii echipei aduc o contribuție esențială la realizarea obiectivelor noastre tehnologice și de mediu.\n\n Valorile noastre - Transparență în toate procesele operaționale și decizionale\n- Responsabilitate față de mediu și societate\n- SSInovație prin integrarea soluțiilor tehnologice moderne\n- Fiabilitate în livrarea de servicii și energie\n\n Informații de contact\n\n Email: srl.morepower@gmail.com  \n\n Telefon: +373 697 86 851  \n\n Adresă : s. Țaul, r-l Dondușeni, Republica Moldova,   \n\n  Administrator: Ciobanu Angela  \n\n Cu MORE POWER, resursele naturale devin surse de progres. Alegem să construim o Moldovă mai curată, mai sigură și mai pregătită pentru viitor.",
+  "image": "/about/our-story.png"
+},
   "Certifications": {
     "title": "Certificări și Acreditări",
     "image1": "/about/certifications/cert1.png",
@@ -103,33 +103,34 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Cum lucrăm",
-    "steps": [
-      {
-        "title": "Consultanță Inițială",
-        "description": "Discutăm obiectivele tale și identificăm cea mai bună soluție pentru proiectul energetic.",
-        "image": "/about/process/step1.svg",
-        "button": "Solicită Discuție"
-      },
-      {
-        "title": "Implementare Eficientă",
-        "description": "Coordonăm toate etapele de proiectare, execuție și integrare a sistemului energetic.",
-        "image": "/about/process/step2.svg",
-        "button": "Inițiază Proiectul"
-      },
-      {
-        "title": "Monitorizare și Suport",
-        "description": "Asigurăm monitorizarea post-instalare și suportul necesar pentru eficiență continuă.",
-        "image": "/about/process/step3.svg",
-        "button": "Suport Tehnic"
-      }
-    ]
-  },
+  "title": "Procesul Nostru de Lucru",
+  "steps": [
+    {
+      "title": "Producerea energiei electrice",
+      "description": "Exploatăm capacități proprii de producere a energiei din surse eoliene, amplasate strategic în nordul Republicii Moldova. Folosim turbine moderne pentru a transforma vântul în energie electrică curată, fără emisii.",
+      "image": "/about/process/proces1.jpg",
+      "button": "Află Mai Multe"
+    },
+    {
+      "title": "Optimizare și monitorizare",
+      "description": "Monitorizăm constant parametrii de funcționare ai parcului eolian prin sisteme digitale avansate. Ne ocupăm de mentenanță, eficiență operațională și siguranța procesului de producție.",
+      "image": "/about/process/proces2.jpg",
+      "button": "Vezi Detalii"
+    },
+    {
+      "title": "Contractare și livrare de energie",
+      "description": "Vindem energia produsă prin contracte directe către operatori economici și instituționali. Asigurăm livrare stabilă, conformă cu reglementările și normele de pe piața energetică națională.",
+      "image": "/about/process/proces3.jpg",
+      "button": "Colaborează cu Noi"
+    }
+  ]
+},
   "Services": {
     "title": "Ce oferim"
   },
   "News": {
-    "title": "Noutăți",
+    "priviledge_title": "Informatii Privilegiate",
+    "general_title": "Noutăți Generale",
     "moreBlogs": "Află ce e nou în lumea energiei verzi",
     "moreBlogsDescription": "Vezi articole, analize și sfaturi despre energie regenerabilă și cum poate fi valorificată eficient în Republica Moldova."
   },
