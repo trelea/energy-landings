@@ -10,7 +10,9 @@ import { Link } from '@/i18n/navigation';
 
 export default async function NewsLanding() {
     const payload = await getPayload({ config })
-    const blogs = await payload.find({ collection: 'news' })
+    const blogs = await payload.find({ collection: 'news' });
+
+    const featuredBlogs = blogs.docs.filter(blog => blog.featured === true);
 
     const t = await getTranslations('NewsLanding');
     const locale = await getLocale();
@@ -28,7 +30,7 @@ export default async function NewsLanding() {
                 </div>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6'>
-                    {blogs.docs.map((blog) => (
+                    {featuredBlogs.map((blog) => (
                         <NewsCard
                             key={blog.id}
                             title={locale === 'ru' ? blog.title_ru : blog.title_ro}

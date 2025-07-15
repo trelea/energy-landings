@@ -26,7 +26,6 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
         aria-label="Global"
       >
         <div className="container flex w-full justify-between items-center">
-          <div className="flex items-center gap-8">
             <Image
               src={isDarkMode ? '/logos/logo-white.png' : '/logos/logo-text.png'}
               alt="Green Energy Logo"
@@ -35,11 +34,6 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
             />
             {/* <h1 className="text-center font-bold text-xl text-white">LOGO</h1> */}
 
-            <div
-              className={`h-7 w-0.5 hidden lg:block ${
-                isDarkMode ? 'bg-[#D9D9D9]' : 'bg-[#8A9EB5]'
-              }`}
-            />
 
             <div className="hidden lg:flex gap-10">
               {navigation.map((item) => (
@@ -57,12 +51,11 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 </Link>
               ))}
             </div>
-          </div>
 
           <div className="hidden lg:flex items-center gap-1 md:gap-4">
             <LocaleSwitcher />
 
-            <Link
+            {/* <Link
               href="/contacts"
               locale={locale}
               className={`ps-6 p-2 rounded-full w-full flex items-center justify-between gap-4 ${
@@ -78,7 +71,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 height={34}
                 alt=""
               />
-            </Link>
+            </Link> */}
           </div>
 
           <div className="flex lg:hidden px-2">

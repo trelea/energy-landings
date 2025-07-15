@@ -52,7 +52,7 @@ export default function Footer() {
                     <div className="flex flex-col gap-12 max-w-[400px]">
                         <div className="flex flex-col items-start justify-start gap-4">
                             <Image
-                                src="/logos/logo-text.svg"
+                                src="/logos/logo-text.png"
                                 alt="Green Energy Logo"
                                 width={200}
                                 height={50}

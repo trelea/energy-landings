@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import { Link } from '@/i18n/navigation'
 import { useTranslations } from 'next-intl'
 
 export default function Process() {
@@ -16,15 +17,15 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full"
+              className="w-full rounded-lg"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.0.title')}</span>
               <span>{t('steps.0.description')}</span>
-              <a href="#" className="text-[#FF5722] font-medium flex items-center gap-2">
+              <Link href="/contacts" className="text-[#FF5722] font-medium flex items-center gap-2">
                 {t('steps.0.button')}
                 <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
-              </a>
+              </Link>
             </div>
           </div>
 
@@ -34,15 +35,15 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full lg:order-1"
+              className="w-full rounded-lg lg:order-1"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.1.title')}</span>
               <span>{t('steps.1.description')}</span>
-              <a href="#" className="text-[#FF5722] font-medium flex items-center gap-2">
+              <Link href="/contacts" className="text-[#FF5722] font-medium flex items-center gap-2">
                 {t('steps.1.button')}
-                <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
-              </a>
+                <Image src="/icons/arrow-up-right-blue.svg"  alt="chevron" width={18} height={17} />
+              </Link>
             </div>
           </div>
 
@@ -52,15 +53,15 @@ export default function Process() {
               alt={'process step 0'}
               width={350}
               height={600}
-              className="w-full"
+              className="w-full rounded-lg"
             />
             <div className="flex flex-col gap-4">
               <span className="text-2xl font-medium">{t('steps.2.title')}</span>
               <span>{t('steps.2.description')}</span>
-              <a href="#" className="text-[#FF5722] font-medium flex items-center gap-2">
+              <Link href="/contacts" className="text-[#FF5722] font-medium flex items-center gap-2">
                 {t('steps.2.button')}
-                <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
-              </a>
+                <Image src="/icons/arrow-up-right-blue.svg" className='rounded-xl' alt="chevron" width={18} height={17} />
+              </Link>
             </div>
           </div>
         </div>

@@ -16,30 +16,30 @@
     "subtitle": "Folosim energia solară pentru a oferi sisteme fotovoltaice eficiente, durabile și adaptate nevoilor fiecărei locații."
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "MEGAINTERCOM SRL este o companie situată în s. Stăuceni, mun. Chișinău, str. Ciorescu 2, Republica Moldova. Activăm în domeniul energiei regenerabile și ne concentrăm pe soluții fotovoltaice moderne. Administrator: Batcu Valerian. Contact: Tel. 069171870, Email: info.megawind@gmail.com.",
+    "title": "Despre MegaWind",
+    "description": "MegaWind este marca comercială a companiei Megaintercom SRL, un producător independent de energie electrică din surse eoliene. Ne desfășurăm activitatea în Republica Moldova, unde construim și operăm parcuri eoliene moderne, contribuind la un viitor energetic durabil. Cu infrastructură avansată și angajament față de mediu, oferim o alternativă verde, sigură și eficientă pentru comunități și industrie.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi MegaWind ca partener energetic",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile noastre transformă lumina naturală în energie electrică fără emisii nocive."
+        "title": "Energie regenerabilă cu impact real",
+        "description": "Folosim forța vântului pentru a produce energie electrică cu emisii zero, contribuind activ la combaterea schimbărilor climatice și reducerea amprentei de carbon la nivel național."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci factura la electricitate și recuperezi investiția rapid, cu beneficii garantate."
+        "title": "Infrastructură scalabilă și tehnologie de vârf",
+        "description": "Turbinele eoliene de înaltă performanță sunt integrate într-o rețea inteligentă de monitorizare și control, care asigură stabilitate operațională și eficiență energetică pe termen lung."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Deții controlul total asupra propriei surse de energie, fără dependență de rețele externe."
+        "title": "Viziune pe termen lung și angajament local",
+        "description": "MegaWind nu este doar un furnizor de energie – suntem un catalizator al dezvoltării durabile, susținând economia locală și construind un model energetic adaptat nevoilor viitorului."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "Oferă un plus de valoare locuinței sau afacerii tale printr-o soluție energetică modernă."
+        "title": "Credibilitate instituțională și parteneriate solide",
+        "description": "Activăm în deplină conformitate cu reglementările naționale, avem licențe active și infrastructură validată, iar partenerii noștri beneficiază de transparență contractuală, suport tehnic și seriozitate în livrare."
       }
     }
   },
@@ -47,34 +47,34 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Vrei să faci trecerea la energie solară?",
-    "subtitle": "Contactează echipa MEGAINTERCOM pentru o analiză detaliată și o ofertă potrivită nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Vrei să faci trecerea la energie verde?",
+    "subtitle": "Contactează echipa  MegaWind pentru o analiză personalizată, detalii tehnice și o ofertă adaptată proiectului tău.",
+    "button": "Începe Acum"
   },
   "NewsLanding": {
     "title": "Ultimele noutăți din domeniul solar",
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Suntem aici pentru a răspunde întrebărilor tale sau pentru a-ți oferi o ofertă personalizată.",
+    "title": "Contact cu experții MegaWind",
+    "subtitle": "Scrie-ne dacă ești interesat de soluții energetice sustenabile bazate pe tehnologie eoliană.",
     "mail": "info.megawind@gmail.com",
     "phone": "069171870",
-    "button": "Support Clienți",
-    "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
-    "nameLabel": "Nume",
-    "surnameLabel": "Prenume",
+    "button": "Contactează-ne",
+    "formTitle": "Trimite o solicitare",
+    "formSubtitle": "Completează formularul, iar un specialist MegaWind te va contacta în cel mai scurt timp.",
+    "nameLabel": "Prenume",
+    "surnameLabel": "Nume",
     "emailLabel": "Email",
     "phoneLabel": "Telefon",
-    "messageLabel": "Cum te putem ajuta?",
+    "messageLabel": "Mesajul tău",
     "submitButton": "Trimite",
-    "subtitle1": "Răspuns Rapid",
-    "subdescription1": "Ne angajăm să răspundem fiecărei solicitări în cel mai scurt timp posibil.",
-    "subtitle2": "Consultanță Clară",
-    "subdescription2": "Primești explicații transparente și soluții personalizate pentru orice proiect.",
-    "subtitle3": "Asistență Continuă",
-    "subdescription3": "Oferim suport și întreținere după instalare pentru o experiență completă."
+    "subtitle1": "Abordare personalizată",
+    "subdescription1": "Oferim fiecărui partener o analiză detaliată și soluții adaptate proiectului său energetic.",
+    "subtitle2": "Consultanță de specialitate",
+    "subdescription2": "Echipa noastră oferă suport complet: de la planificare tehnică la racordarea la rețea.",
+    "subtitle3": "Servicii și parteneriate B2B",
+    "subdescription3": "Suntem deschiși colaborărilor cu companii și instituții – livrăm soluții energetice fiabile și adaptate nevoilor profesionale."
   },
   "Footer": {
     "description": "MEGAINTERCOM SRL • str. Ciorescu 2, Stăuceni, mun. Chișinău • TVA 0309374 • IDNO 1006600004256 • BC ProCredit Bank • SWIFT PRCBMD22",
@@ -85,16 +85,14 @@
     "link3": "Servicii",
     "link4": "Noutăți",
     "link5": "Contact",
-
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
-
     "privacyPolicyContent": "Politica de confidențialitate descrie modul în care colectăm, utilizăm și protejăm informațiile personale ale utilizatorilor platformei noastre. Ne angajăm să respectăm confidențialitatea datelor și să aplicăm măsuri tehnice și organizatorice adecvate pentru protejarea acestora.\n\nColectăm doar datele strict necesare pentru funcționarea serviciilor, cum ar fi nume, prenume, email, telefon, IP și date de navigare. Acestea sunt utilizate exclusiv pentru comunicare, procesarea solicitărilor și îmbunătățirea experienței utilizatorului.\n\nNu transmitem datele personale către terți, cu excepția cazurilor cerute de lege sau necesare pentru furnizarea serviciilor. Utilizatorii au dreptul de a solicita accesul, corectarea, ștergerea sau limitarea prelucrării datelor lor.\n\nPrin utilizarea platformei, sunteți de acord cu această politică. Politica poate fi actualizată periodic; vă recomandăm să reveniți pentru a verifica cea mai recentă versiune.",
     "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "MEGAINTERCOM SRL contribuie la dezvoltarea durabilă prin promovarea energiei solare în Republica Moldova. Suntem dedicați furnizării de soluții fotovoltaice eficiente, cu accent pe calitate, transparență și inovație.",
+    "title": "Cine Suntem",
+    "description": "MEGAINTERCOM SRL, cunoscută comercial sub numele MegaWind, este o companie din Republica Moldova specializată în producerea energiei electrice din surse regenerabile – în special din energia vântului. Cu sediul în localitatea Stăuceni, mun. Chișinău, activăm cu autorizație completă și respectăm standardele europene privind eficiența energetică, siguranța și protecția mediului.\n\nValori fundamentale\n\nTransparență – comunicare deschisă cu partenerii, autoritățile și comunitatea.\nInovație – folosim cele mai noi tehnologii în domeniul eolian.\nResponsabilitate – respectăm mediul și ne asumăm un rol activ în protejarea resurselor.\nParteneriat – dezvoltăm relații durabile B2B și instituționale, bazate pe încredere.\n\nCredibilitate și parteneriate\n\nÎnregistrată oficial sub IDNO 1006600004256, compania este administrată de dl. Valerian Batcu, profesionist cu experiență în infrastructură energetică. Suntem recunoscuți de autoritățile naționale ca furnizor de încredere, cu toate actele în regulă și capacitate reală de producție.\nAcceptăm colaborări cu parteneri comerciali, distribuitori, investitori sau instituții publice interesate de soluții energetice moderne, sigure și sustenabile.\n\nDate de contact\n\nAdresa: str. Ciorescu 2, s. Stăuceni, mun. Chișinău, MD-4839 \n\n  Tel: 069171870\n\nEmail: info.megawind@gmail.com / vbatcu@inbox.ru\n\nAdministrator în persoana d-ul Batcu Valerian.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -105,25 +103,25 @@
     "image4": "/about/certifications/cert4.png"
   },
   "Process": {
-    "title": "Procesul de instalare",
+    "title": "De la Viziune la Energie",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Analizăm cerințele clientului, evaluăm locația și propunem soluția tehnică potrivită.",
-        "image": "/about/process/step1.svg",
-        "button": "Consultatie Gratuită"
+        "title": "Activitatea Noastră",
+        "description": "MegaWind dezvoltă, implementează și operează parcuri eoliene moderne, destinate producerii de energie verde, conectate la rețelele naționale de distribuție. Parcurile noastre sunt amplasate strategic în zone cu potențial eolian ridicat, asigurând o producție constantă, fiabilă și ecologică.",
+        "image": "/about/process/proces1.jpg",
+        "button": "Contactează-ne"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "Executăm montajul complet, respectând standardele tehnice și normele de siguranță.",
-        "image": "/about/process/step2.svg",
-        "button": "Oferte Speciale"
+        "title": "Infrastructură și tehnologie",
+        "description": "Utilizăm turbine eoliene de mare capacitate și echipamente certificate internațional. Tehnologiile implementate permit monitorizarea și controlul în timp real al parametrilor de producție, ceea ce ne permite să optimizăm randamentul energetic și să reducem pierderile.",
+        "image": "/about/process/proces2.jpg",
+        "button": "Contactează-ne"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "Verificăm funcționalitatea sistemului și oferim toate materialele necesare clientului.",
-        "image": "/about/process/step3.svg",
-        "button": "Montare Profesionistă"
+        "title": "Misiune și viziune",
+        "description": "Misiunea MegaWind este să devină un actor-cheie în tranziția Moldovei către energie verde, contribuind activ la reducerea emisiilor de carbon și la dezvoltarea economică durabilă. Viziunea noastră pe termen lung este o Moldovă energetic autonomă, conectată la un viitor curat și prosper.",
+        "image": "/about/process/proces3.jpg",
+        "button": "Contactează-ne"
       }
     ]
   },
@@ -131,7 +129,8 @@
     "title": "Serviciile Noastre"
   },
   "News": {
-    "title": "Noutăți",
+    "priviledge_title": "Informatii Privilegiate",
+    "general_title": "Noutăți Generale",
     "moreBlogs": "Urmărește blogul nostru pentru cele mai noi informații despre energie verde.",
     "moreBlogsDescription": "Publicăm noutăți despre soluții moderne, tehnologii inovatoare și experiențe reale din teren."
   },
