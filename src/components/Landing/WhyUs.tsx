@@ -34,7 +34,7 @@ export default function WhyUs() {
                         <div className='flex flex-col gap-8 items-start xl:items-end justify-center'>
                             <div className='w-16 h-16 flex justify-center items-center text-white text-center text-2xl p-3 bg-gradient-to-b from-[#FFC107] to-[#CC9900] rounded-full'>03</div>
                             <div className='flex flex-col justify-center items-start xl:items-end gap-4'>
-                                <span className='text-xl font-medium'>{t('points.3.title')}</span>
+                                <span className='text-xl font-medium text-end'>{t('points.3.title')}</span>
                                 <span className='text-[#666666] text-start xl:text-end'>{t('points.3.description')}</span>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ export default function WhyUs() {
                         <div className='flex flex-col gap-8 items-start xl:items-end justify-center'>
                             <div className='w-16 h-16 flex justify-center items-center text-white text-center text-2xl p-3 bg-gradient-to-b from-[#FFC107] to-[#CC9900] rounded-full'>04</div>
                             <div className='flex flex-col justify-center items-start xl:items-end gap-4'>
-                                <span className='text-xl font-medium'>{t('points.4.title')}</span>
+                                <span className='text-xl font-medium text-end'>{t('points.4.title')}</span>
                                 <span className='text-[#666666] text-start xl:text-end'>{t('points.4.description')}</span>
                             </div>
                         </div>

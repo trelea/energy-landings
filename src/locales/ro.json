@@ -16,30 +16,30 @@
     "subtitle": "Sistemele noastre fotovoltaice utilizează doar energie solară – regenerabilă, curată și sustenabilă."
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "EXIMIUSFRUCT SRL este o companie cu sediul în r. Dubăsari, s. Coșnița, str. Doina, 71. Suntem dedicați soluțiilor energetice moderne și activăm cu responsabilitate în domeniul agro-industrial și energetic. Administrator: Roșca Lilian. Pentru informații, ne puteți contacta la (+373) 69126133 sau pe e-mail: eximiusfructsrl@bk.ru.",
+    "title": "Despre Eximius Energy",
+    "description": "Ne dedicăm producției de energie electrică din surse regenerabile, prin exploatarea resurselor solare și eoliene ale țării. Operăm un parc fotovoltaic de mare capacitate și un parc eolian format din turbine performante, ambele situate în nordul Moldovei, în zona Rădoaia, r-nul Sîngerei.\n \nCu infrastructură modernă, licențiere completă și un angajament ferm față de mediu, contribuim activ la tranziția energetică și la un viitor mai curat pentru comunitățile din Republica Moldova.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "Nouă Energie pentru un Viitor Sustenabil",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "title": "Energie 100% Verde",
+        "description": "Sistemele solare și eoliene produc energie fără emisii, fără poluare și cu impact minim asupra mediului."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "title": "Economii Sigure și Durabile",
+        "description": "Reduci costurile lunare cu energia și beneficiezi de o investiție care se amortizează în doar câțiva ani."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "title": "Independență Energetică Totală",
+        "description": "Combinația dintre panouri solare și turbine eoliene oferă autonomie și stabilitate, chiar și în zone izolate."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Plusvaloare pentru Proprietate și Mediu",
+        "description": "Proprietățile cu surse regenerabile sunt mai atractive, mai valoroase și contribuie activ la protejarea planetei."
       }
     }
   },
@@ -47,8 +47,8 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
+    "title": "Ești pregătit să faci pasul către energie regenerabilă?",
+    "subtitle": "Alege soluții solare și eoliene pentru un viitor mai curat și mai eficient energetic.",
     "button": "Începe Acum"
   },
   "NewsLanding": {
@@ -57,9 +57,9 @@
   },
   "Contact": {
     "title": "Începe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
-    "mail": "eximiusfructsrl@bk.ru",
-    "phone": "(+373) 69126133",
+    "subtitle": "Suntem aici să te ajutăm cu soluții solare și eoliene adaptate exact cerințelor tale.",
+    "mail": "revenco.office.md@gmail.com",
+    "phone": "062 162 588",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
@@ -69,12 +69,12 @@
     "phoneLabel": "Telefon",
     "messageLabel": "Cum te putem ajuta?",
     "submitButton": "Trimite",
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle1": "Suport rapid și eficient",
+    "subdescription1": "Răspundem în cel mult 24 de ore la orice întrebare legată de sistemele noastre sau de procesul de instalare.",
+    "subtitle2": "Soluții la cheie, personalizate",
+    "subdescription2": "Analizăm nevoile tale și propunem cele mai avantajoase variante tehnice și financiare, explicate clar și transparent.",
+    "subtitle3": "Suport continuu pentru parteneriate",
+    "subdescription3": "După semnarea contractului, rămânem alături de tine cu servicii de asistență, monitorizare și optimizare a livrărilor energetice."
   },
   "Footer": {
     "description": "EXIMIUSFRUCT SRL • str. Doina 71, s. Coșnița, r. Dubăsari • TVA 5300184 • c/f 1017600044856 • BC ProCredit Bank S.A. • SWIFT PRCBMD22",
@@ -94,7 +94,7 @@
   },
   "OurStory": {
     "title": "Povestea Noastră",
-    "description": "EXIMIUSFRUCT SRL este o companie moldovenească activă în domeniul agro-industrial și energetic. Prin soluții moderne și profesionale, ne propunem să contribuim la un mediu mai curat și o economie mai eficientă.",
+    "description": "EXIMIUSFRUCT S.R.L. este un producător independent de energie electrică din surse regenerabile, activând pe piața din Republica Moldova. Compania deține și operează două mari unități de producere a energiei: un parc fotovoltaic cu o capacitate instalată de 8428,75 kW și un parc eolian format din cinci turbine performante marca General Electric, fiecare cu capacitatea de 1,5 MW.\n\nAmbele proiecte sunt situate în extravilanul satului Rădoaia, raionul Sîngerei – o regiune cu condiții naturale favorabile atât pentru energie solară, cât și pentru cea eoliană. Această localizare strategică ne permite să maximizăm eficiența energetică și randamentul investițiilor.\n\nActivitatea noastră este reglementată de Agenția Națională pentru Reglementare în Energetică, în baza licenței nr. 15000 kW emisă în august 2023. Folosim echipamente de ultimă generație, printre care invertoare trifazate HUAWEI SUN2000, data loggere inteligente și rețele electrice de distribuție optimizate pentru conectare la rețeaua națională.\n\nCredem într-un viitor energetic durabil, construit pe baza resurselor naturale regenerabile. Misiunea noastră este să oferim energie verde, sigură și competitivă atât pentru sectorul privat, cât și pentru instituții publice sau proiecte comunitare.\n\nViziunea EXIMIUSFRUCT este să devenim un reper în tranziția energetică a Republicii Moldova – nu doar ca producător, ci și ca promotor activ al inovației și sustenabilității.\n\nSustenabilitate – protejăm mediul și promovăm responsabilitatea ecologică;\n\nPerformanță tehnologică – investim constant în echipamente și know-how;\n\nTransparență – relații corecte cu partenerii, instituțiile și comunitățile locale;\n\nFiabilitate – oferim continuitate, siguranță și suport în toate etapele colaborării.\n\nSuntem deschiși la parteneriate B2B și cooperări strategice. În prezent, energia generată este pregătită pentru integrarea în rețelele de distribuție sau pentru vânzare directă către parteneri instituționali și industriali. Ne propunem extinderea capacităților de producție și participarea la proiecte de dezvoltare regională în domeniul energetic.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -131,7 +131,8 @@
     "title": "Serviciile Noastre"
   },
   "News": {
-    "title": "Noutăți",
+    "priviledge_title": "Informatii Privilegiate",
+    "general_title": "Noutăți Generale",
     "moreBlogs": "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
     "moreBlogsDescription": "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
   },

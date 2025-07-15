@@ -10,7 +10,7 @@ export default function Hero() {
       <Navbar />
       <div className="h-1/2">
         <div className="container mx-auto px-5 flex flex-col h-full items-center justify-center gap-9">
-          <div className="flex flex-col gap-2 items-center justify-center max-w-xl lg:max-w-3xl">
+          <div className="flex flex-col gap-2 items-center justify-center max-w-xl lg:max-w-4xl">
             <span className="text-center text-base lg:text-xl opacity-80 text-white">
               {t('label')}
             </span>
@@ -34,10 +34,10 @@ export default function Hero() {
 
         <div className="container flex justify-between mx-auto my-10 px-10">
           <div className="flex flex-col justify-start gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-4 rounded-xl backdrop-blur-sm max-w-[310px] h-full">
-            <div className="flex items-center gap-2">
+            {/* <div className="flex items-center gap-2">
               <div className="bg-white w-1 h-6 rounded-full rotate-[35deg]"></div>
               <div className="bg-white w-1 h-6 rounded-full rotate-[35deg]"></div>
-            </div>
+            </div> */}
             <div className="flex flex-col items-end gap-2">
               <span>{t('motto')}</span>
               <span>{t('author')}</span>

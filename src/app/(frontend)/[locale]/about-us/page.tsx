@@ -14,7 +14,7 @@ export default function AboutUsPage() {
 
       <OurStory />
 
-      <Process />
+      {/* <Process /> */}
 
       <Certifications />
 
