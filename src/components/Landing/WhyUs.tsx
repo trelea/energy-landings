@@ -33,7 +33,7 @@ export default function WhyUs() {
                         </div>
                     </div>
 
-                    <Image src={'/whyus.svg'} alt='Why Us' width={500} height={500} className='hidden xl:block' />
+                    <Image src={'/whyus.webp'} alt='Why Us' width={500} height={500} className='hidden xl:block' />
 
                     <div className='flex flex-col gap-14 w-full'>
                         <div className='flex flex-col gap-8 items-start xl:items-end justify-center'>

@@ -15,11 +15,12 @@ body {
 }
 
 .hero-bg {
-  background-image: url('/herobg.png');
+  background-image: url('/herobg.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-position: bottom;
+  loading: lazy;
 }
 
 .cta-block {
