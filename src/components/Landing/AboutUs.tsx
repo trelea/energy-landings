@@ -27,7 +27,7 @@ export default function AboutUs() {
                         </div>
                     </div> */}
                 </div>
-                <Image src="/about.svg" alt="About Us" width={500} height={500} className="w-full" />
+                <Image src="/about.webp" alt="About Us" width={500} height={500} className="w-full" />
             </div>
         </div>
     );

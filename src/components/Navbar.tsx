@@ -20,7 +20,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
   ]
 
   return (
-    <header className="top-0 z-999 w-full" id="home">
+    <header className="top-0 z-50 w-full" id="home">
       <nav
         className="z-50 border-[#747474] flex justify-center p-5 max-w-screen-xl mx-auto w-full"
         aria-label="Global"
@@ -125,7 +125,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 >
                   <span className="text-[#001D3D] font-medium">{t('button')}</span>
 
-                  <Image src="icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+                  <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
                 </a>
               </div>
             </div>
