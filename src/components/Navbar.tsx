@@ -20,7 +20,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
   ]
 
   return (
-    <header className="top-0 z-999 w-full" id="home">
+    <header className="top-0 z-50 w-full" id="home">
       <nav
         className="z-50 border-[#747474] flex justify-center p-5 max-w-screen-xl mx-auto w-full"
         aria-label="Global"
@@ -91,7 +91,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
       <Dialog as="div" className="lg:hidden" open={mobileMenuOpen} onClose={setMobileMenuOpen}>
         <Dialog.Panel className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-[#1b1b1b52] backdrop-blur-xl px-6 py-12 lg:py-5 lg:px-8 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
-            <Image src="/logos/logo-text.svg" alt="Green Energy Logo" width={150} height={56} />
+            <Image src="/logos/logo-text.png" alt="Green Energy Logo" width={150} height={56} />
             <button
               type="button"
               className="-m-2.5 rounded-md p-2.5 text-white"
@@ -124,7 +124,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
                 >
                   <span className="text-[#001D3D] font-medium">{t('button')}</span>
 
-                  <Image src="icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+                  <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
                 </a>
               </div>
             </div>
