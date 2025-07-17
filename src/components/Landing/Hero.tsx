@@ -1,6 +1,5 @@
 import { useTranslations } from 'next-intl'
 import Navbar from '../Navbar'
-import Image from 'next/image'
 
 export default function Hero() {
   const t = useTranslations('Hero')
