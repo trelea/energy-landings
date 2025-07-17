@@ -20,7 +20,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
   ]
 
   return (
-    <header className="top-0 z-999 w-full" id="home">
+    <header className="top-0 z-50 w-full" id="home">
       <nav
         className="z-50 border-[#747474] flex justify-center p-5 max-w-screen-xl mx-auto w-full"
         aria-label="Global"
