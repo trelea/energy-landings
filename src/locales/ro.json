@@ -100,9 +100,7 @@
   "Certifications": {
     "title": "Certificări și Acreditări",
     "image1": "/about/certifications/cert1.png",
-    "image2": "/about/certifications/cert2.png",
-    "image3": "/about/certifications/cert3.png",
-    "image4": "/about/certifications/cert4.png"
+    "image2": "/about/certifications/cert2.png"
   },
   "Process": {
     "title": "Procesul de instalare",

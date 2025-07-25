@@ -15,9 +15,7 @@ export default function Certifications() {
 
     const images: ImageData[] = [
         { src: t('image1'), alt: 'Certificate 1' },
-        { src: t('image2'), alt: 'Certificate 2' },
-        { src: t('image3'), alt: 'Certificate 3' },
-        { src: t('image4'), alt: 'Certificate 4' }
+        { src: t('image2'), alt: 'Certificate 2' }
     ];
 
     const openModal = (image: ImageData): void => {
@@ -30,10 +28,10 @@ export default function Certifications() {
 
     return (
         <div className='container max-w-screen-md lg:max-w-screen-lg mx-auto px-4 py-12 lg:py-16'>
-            <div className='flex flex-col gap-8 justify-center'>
+            <div className='flex flex-col gap-8 items-center justify-center'>
                 <span className='font-semibold text-2xl lg:text-[32px]'>{t('title')}</span>
 
-                <div className='grid grid-cols-2 xl:grid-cols-4 gap-2 lg:gap-8'>
+                <div className='grid grid-cols-2 gap-2 lg:gap-8'>
                     {images.map((image, index) => (
                         <div 
                             key={index}
