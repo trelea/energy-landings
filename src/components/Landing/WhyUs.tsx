@@ -10,7 +10,7 @@ export default function WhyUs() {
                 <span className='font-medium text-[32px] max-w-sm xl:text-center'>{t('title')}</span>
 
                 <div className='flex flex-col xl:flex-row gap-14'>
-                    <div className='flex gap-6'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6'>
                         <div className='w-full flex flex-col gap-8 items-start justify-start border border-[#CCCCCC] p-6 rounded-lg'>
                             <div className='w-16 h-16 flex justify-center items-center text-white p-3 bg-gradient-to-b from-[#A6E22E] to-[#6D9915] rounded-full'>
                                 <Award size={28} />

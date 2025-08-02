@@ -8,38 +8,38 @@
   },
   "Hero": {
     "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
+    "title1": "Puterea vântului, la dispoziția comunității.",
     "cta": "Incepe Acum",
     "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
     "author": "— Echipa SOLOTRANS-AGRO SRL",
     "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "subtitle": "Dezvoltăm soluții energetice regenerabile din parcuri eoliene."
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie cu sediul în mun. Chișinău, str. Calea Basarabiei, 8-8A. Cu o vastă experiență în domeniul agro și energetic, oferim soluții moderne și sustenabile. Administrator: Solomițchi Maria. Ne puteți contacta la tel. (022) 35-40-81 sau pe e-mail: solotrans-agro@mail.ru.",
+    "title": "Despre Nanowind",
+    "description": "Nanowind este o companie moldovenească licențiată de ANRE, specializată în producerea energiei electrice din surse regenerabile, cu accent pe tehnologia eoliană. Cu sediul în municipiul Chișinău, dezvoltăm și operăm parcuri eoliene moderne care contribuie activ la tranziția energetică a Republicii Moldova. Prin valorificarea forței naturale a vântului, oferim o alternativă sustenabilă la sursele tradiționale de energie, reducând amprenta de carbon și sprijinind independența energetică a regiunii. Activitatea noastră se bazează pe eficiență, siguranță și respect față de mediu.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "title": "De ce să alegi Nanowind?",
     "points": {
       "1": {
-        "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "title": "Angajament față de energia verde",
+        "description": "Ne concentrăm pe producerea de energie curată, contribuind activ la protejarea mediului și la reducerea impactului negativ asupra climei."
       },
       "2": {
-        "title": "Economie Pe Termen Lung",
-        "description": "Reduci semnificativ factura de electricitate și amortizezi investiția în doar câțiva ani."
+        "title": "Expertiză și profesionalism",
+        "description": "Dispunem de o echipă dedicată, cu experiență în domeniul energetic și o abordare responsabilă în fiecare etapă a proiectelor noastre."
       },
       "3": {
-        "title": "Independență Energetică",
-        "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
+        "title": "Inovație și tehnologie durabilă",
+        "description": "Implementăm soluții moderne, fiabile și eficiente pentru transformarea energiei vântului în electricitate sigură și sustenabilă."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Viziune pe termen lung",
+        "description": "Construim parteneriate solide și investim în dezvoltarea durabilă, cu obiectivul de a contribui la un viitor energetic mai sigur și mai curat."
       }
     }
   },
@@ -47,22 +47,22 @@
     "title": "Serviciile Noastre"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "title": "Fii parte din schimbare.",
+    "subtitle": "Cu energia eoliană și solară, contribuim împreună la un viitor eficient și responsabil.",
+    "button": "Pornește alături de noi"
   },
   "NewsLanding": {
     "title": "Ultimele noutăți din domeniul solar",
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Incepe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată sau orice întrebare legată de panouri fotovoltaice.",
+    "title": " Suntem disponibili pentru consultatii zi de zi.",
+    "subtitle": "Contactează-ne pentru informații suplimentare, colaborări sau oferte personalizate în domeniul energiei regenerabile.",
     "mail": "solotrans-agro@mail.ru",
     "phone": "(022) 35-40-81",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
-    "formSubtitle": "Ne puteți contacta oricând",
+    "formSubtitle": "Completează formularul și te vom contacta în cel mai scurt timp.",
     "nameLabel": "Nume",
     "surnameLabel": "Prenume",
     "emailLabel": "Email",
@@ -70,14 +70,14 @@
     "messageLabel": "Cum te putem ajuta?",
     "submitButton": "Trimite",
 
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Fie că e vorba de o ofertă sau o întrebare, revenim cu un răspuns în cel mult 24 de ore.",
+    "subtitle1": "Producție de energie 100% regenerabilă",
+    "subdescription1": "Generăm energie electrică din surse eoliene, contribuind la un sistem energetic curat, sigur și sustenabil.",
 
-    "subtitle2": "Consultanță Custom",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu detalii clare și transparente despre costuri și beneficii.",
+    "subtitle2": "Fiabilitate și continuitate în livrare",
+    "subdescription2": "Asigurăm funcționarea constantă a parcului eolian, cu livrare de energie stabilă către rețelele naționale sau parteneri contractuali.",
 
-    "subtitle3": "Suport Post-Vânzare",
-    "subdescription3": "Suntem alături de tine și după instalare, oferind asistență tehnică și întreținere periodică."
+    "subtitle3": "Angajament pentru tranziția energetică",
+    "subdescription3": "Susținem dezvoltarea durabilă și reducerea emisiilor prin investiții în infrastructură verde și operare responsabilă."
   },
   "Footer": {
     "description": "SRL \"Nanowind\" \n\n Adresa juridica: MD-2025 mun. Chisinau, str. Arborilor 9/3, Republica Moldova \n\n Posta electronica: nnanowind@gmail.com \n\n Director: Buza Daniel \n\n Telefon: 069033546",
@@ -94,8 +94,8 @@
     "termsOfServiceContent": "Accesând sau utilizând această platformă, sunteți de acord să respectați termenii și condițiile de mai jos. Acestea reglementează utilizarea serviciilor și conținutului oferit, stabilind drepturile și obligațiile fiecărei părți.\n\nInformațiile furnizate pe site sunt cu titlu informativ. Ne rezervăm dreptul de a modifica conținutul, structura sau disponibilitatea serviciilor în orice moment.\n\nUtilizatorii sunt obligați să folosească platforma într-un mod legal și responsabil, fără a afecta funcționarea normală a serviciilor. Este interzisă copierea sau utilizarea neautorizată a conținutului prezent.\n\nNu ne asumăm responsabilitatea pentru erori, omisiuni sau întreruperi ale funcționării temporare. Orice litigiu va fi soluționat pe cale amiabilă, iar în caz contrar, de instanțele competente din jurisdicția aplicabilă.\n\nPrin continuarea utilizării platformei, confirmați că ați citit și acceptat acești termeni."
   },
   "OurStory": {
-    "title": "Povestea Noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul agro și energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "title": "Despre Nanowind",
+    "description": "Producem energie curată. Conectăm viitorul la surse regenerabile.\nNanowind este o companie moldovenească cu viziune durabilă, dedicată exclusiv producției de energie electrică din surse regenerabile, în special prin tehnologia eoliană. Cu o abordare responsabilă și orientată spre viitor, dezvoltăm și operăm parcuri eoliene moderne, contribuind activ la transformarea sistemului energetic național într-unul sigur, sustenabil și prietenos cu mediul.\n\nFondată cu misiunea clară de a accelera tranziția energetică a Republicii Moldova, Nanowind este mai mult decât un producător de energie — suntem un partener de încredere în construirea unui viitor verde. Ne desfășurăm activitatea într-un mod transparent, respectând cele mai înalte standarde tehnologice și de conformitate în domeniul regenerabil.\n\nProducem energie electrică 100% regenerabilă, bazată pe captarea și conversia eficientă a forței vântului.\n\nAsigurăm funcționarea continuă și optimizată a parcurilor noastre eoliene prin mentenanță riguroasă și sisteme moderne de monitorizare.\n\nLivrăm energie curată în rețelele naționale, contribuind la reducerea dependenței de resursele convenționale și la stabilitatea energetică a regiunii.\n\nEnergia vântului este una dintre cele mai eficiente și curate forme de generare electrică. Este infinita, nepoluantă și economic sustenabilă. Alegând energia eoliană, susținem un model de dezvoltare responsabilă și participăm activ la combaterea schimbărilor climatice.\n\nSustenabilitate – Punem accent pe dezvoltarea ecologică și pe respectul față de natură.\n\nFiabilitate – Furnizăm energie sigură, cu funcționare stabilă și eficientă pe termen lung.\n\nInovație – Implementăm soluții tehnologice moderne și adaptabile.\n\nResponsabilitate – Gestionăm fiecare proiect cu grijă pentru comunitate, parteneri și viitorul generațiilor următoare.\n\nNe propunem să devenim un reper regional în domeniul energiei regenerabile, contribuind activ la o economie bazată pe emisii reduse de carbon, autonomie energetică și progres sustenabil.",
     "image": "/about/our-story.png"
   },
   "Certifications": {

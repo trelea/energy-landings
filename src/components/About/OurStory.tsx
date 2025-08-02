@@ -7,6 +7,8 @@ export default function OurStory() {
     return (
         <div className='container max-w-screen-xl mx-auto px-4 py-10 lg:py-12'>
             <div className='flex flex-col gap-8 lg:gap-16 xl:items-center justify-center'>
+                <Image src={t('image')} alt={'about'} width={1200} className='object-cover' height={600}/>
+
                 <div className='flex flex-col gap-4 items-start text-left'>
                     <span className='font-semibold text-4xl lg:text-5xl'>{t('title')}</span>
                     {t('description')
@@ -17,8 +19,6 @@ export default function OurStory() {
                             </p>
                     ))}
                 </div>
-
-                <Image src={t('image')} alt={'about'} width={1100} height={600}/>
             </div>
         </div>
     );

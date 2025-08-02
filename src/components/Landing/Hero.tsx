@@ -10,13 +10,17 @@ export default function Hero() {
       <Navbar />
       <div className="h-[60%] ">
         <div className="container mx-auto px-5 flex flex-col h-full items-center justify-center gap-9">
-          <div className="flex flex-col gap-2 items-center justify-center max-w-xl lg:max-w-3xl">
+          <div className="flex flex-col gap-2 items-center justify-center max-w-xl lg:max-w-4xl">
             {/* <span className="text-center text-base lg:text-xl opacity-80 text-white">
               {t('label')}
             </span> */}
 
             <span className="text-4xl md:text-6xl lg:text-[81px] text-center font-semibold text-white leading-snug">
               {t('title1')}
+            </span>
+
+            <span className="text-lg lg:text-2xl text-center text-white opacity-80">
+              {t('subtitle')}
             </span>
           </div>
 
