@@ -67,7 +67,7 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
               locale={locale}
               className={`ps-6 p-2 rounded-full w-full flex items-center justify-between gap-4 ${
                 isDarkMode
-                  ? 'bg-[#4CAF50] hover:bg-[#4caf4fd0] text-white'
+                  ? 'bg-[#A6E22E] hover:bg-[#a6e22ed3] text-white'
                   : 'bg-white hover:bg-[#eeeeee] text-[#001D3D]'
               }`}
             >

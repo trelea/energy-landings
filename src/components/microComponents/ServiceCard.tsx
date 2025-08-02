@@ -9,7 +9,7 @@ type ServiceCardProps = {
 
 export default function ServiceCard({ title, description, imageUrl, redirectLink }: ServiceCardProps) {
     return (
-        <div className='flex flex-col gap-6 p-6 w-full bg-[#eeffee] border border-[#a9fca9] rounded-xl'>
+        <div className='flex flex-col gap-6 p-6 w-full bg-[#ffffff] border border-[#c7c7c7] rounded-xl'>
 
             <div className="relative w-full aspect-video rounded-lg overflow-hidden">
                 <Image
@@ -25,7 +25,7 @@ export default function ServiceCard({ title, description, imageUrl, redirectLink
 
                 <p className='text-[#666666]'>{description}</p>
                 
-                <a href={redirectLink} className='text-[#4CAF50] font-medium flex items-center gap-2'>
+                <a href={redirectLink} className='text-[#A6E22E] font-medium flex items-center gap-2'>
                     Mai mult
                     <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
                 </a>

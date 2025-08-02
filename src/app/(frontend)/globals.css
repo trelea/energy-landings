@@ -15,7 +15,7 @@ body {
 }
 
 .hero-bg {
-  background-image: url('/herobg.png');
+  background-image: url('/herobg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,5 +23,5 @@ body {
 }
 
 .cta-block {
-  background: radial-gradient(64% 64% at 50% 36%, #4CAF50, #38803A 100%);
+  background: radial-gradient(64% 64% at 50% 36%, #618813, #49660E 100%);
 }
