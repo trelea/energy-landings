@@ -16,7 +16,7 @@ export default function AboutUsPage() {
 
       {/* <Certifications /> */}
 
-      <Process />
+      {/* <Process /> */}
 
       <CtaBlock />
 

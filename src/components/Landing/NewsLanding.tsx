@@ -20,13 +20,13 @@ export default async function NewsLanding() {
     return (
         <div className='container max-w-screen-md xl:max-w-screen-xl w-full mx-auto px-4 py-16'>
             <div className='flex flex-col gap-6 xl:items-center justify-center'>
-                <div className='flex justify-between items-center gap-2 w-full'>
-                    <span className='font-medium text-xl lg:text-2xl'>{t('title')}</span>
+                <div className='flex justify-center items-center gap-2 w-full'>
+                    <span className='font-medium text-xl lg:text-4xl'>{t('title')}</span>
                     
-                    <Link href='/blogs' className='flex gap-1 text-[#A6E22E] whitespace-nowrap'>
+                    {/* <Link href='/blogs' className='flex gap-1 text-[#A6E22E] whitespace-nowrap'>
                         <span className='font-medium'>{t('button')}</span>
                         <Image src="/icons/chevron-right.svg" alt="chevron" width={18} height={18}/>
-                    </Link>
+                    </Link> */}
                 </div>
 
                 <div className='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6'>
