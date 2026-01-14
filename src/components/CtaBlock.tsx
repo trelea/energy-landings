@@ -22,14 +22,13 @@ export default function CtaBlock() {
           <div className="flex flex-col gap-3 items-center">
             <Link
               href="#contact"
-              className="bg-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-gray-100 transition-colors"
+              className="bg-white w-full py-4 px-6 rounded-full flex items-center justify-center gap-3 hover:bg-gray-100 transition-colors"
             >
-              <span className="text-[#001D3D] font-medium whitespace-nowrap">{t('button')}</span>
-              <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+              <span className="text-[#001D3D] font-medium whitespace-nowrap text-center">{t('button')}</span>
             </Link>
             <Link
-              href="tel:+373246210 97"
-              className="border border-white/30 ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
+              href="tel:+37324621097"
+              className="border border-white/30 py-4 px-6 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
             >
               <span className="font-medium whitespace-nowrap">{t('phone')}</span>
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

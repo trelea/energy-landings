@@ -22,41 +22,35 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
   return (
     <header className="top-0 z-50 w-full" id="home">
       <nav
-        className="z-50 border-[#747474] flex justify-center p-5 contaienr mx-auto w-full"
+        className="z-50 border-[#747474] flex justify-center p-5 container mx-auto w-full"
         aria-label="Global"
       >
         <div className="container flex w-full justify-between items-center">
-          <div className="flex items-center gap-8">
+          <Link href="/" locale={locale}>
             <Image
               src={isDarkMode ? '/logos/logo-white.svg' : '/logos/logo-text.svg'}
               alt="Green Energy Logo"
               width={150}
               height={50}
             />
-            {/* <h1 className="text-center font-bold text-xl text-white">LOGO</h1> */}
+          </Link>
+          {/* <h1 className="text-center font-bold text-xl text-white">LOGO</h1> */}
 
-            <div
-              className={`h-7 w-0.5 hidden lg:block ${
-                isDarkMode ? 'bg-[#D9D9D9]' : 'bg-[#8A9EB5]'
-              }`}
-            />
-
-            <div className="hidden lg:flex gap-10">
-              {navigation.map((item) => (
-                <Link
-                  key={item.name}
-                  href={item.href}
-                  locale={locale}
-                  className={`cursor-pointer hover:font-medium transition-all ${
-                    isDarkMode
-                      ? 'text-[#4C4C4C] hover:text-[#151515]'
-                      : 'text-[#D5E1EF] hover:text-[#FFFFFF]'
-                  }`}
-                >
-                  {item.name}
-                </Link>
-              ))}
-            </div>
+          <div className="hidden lg:flex gap-10">
+            {navigation.map((item) => (
+              <Link
+                key={item.name}
+                href={item.href}
+                locale={locale}
+                className={`cursor-pointer hover:font-medium transition-all ${
+                  isDarkMode
+                    ? 'text-[#4C4C4C] hover:text-[#151515]'
+                    : 'text-[#e4e4e4] hover:text-[#FFFFFF]'
+                }`}
+              >
+                {item.name}
+              </Link>
+            ))}
           </div>
 
           <div className="hidden lg:flex items-center gap-1 md:gap-4">
@@ -65,19 +59,13 @@ export default function Navbar({ isDarkMode }: { isDarkMode?: boolean }) {
             <Link
               href="/contacts"
               locale={locale}
-              className={`ps-6 p-2 rounded-full w-full flex items-center justify-between gap-4 ${
+              className={`py-4 px-6 rounded-full w-full flex items-center justify-between gap-4 ${
                 isDarkMode
                   ? 'bg-primary hover:bg-primary-dark text-white'
                   : 'bg-white hover:bg-[#eeeeee] text-[#001D3D]'
               }`}
             >
               <span className="font-medium">{t('button')}</span>
-              <Image
-                src={isDarkMode ? '/icons/arrow-up-empty.svg' : '/icons/arrow-up-filled.svg'}
-                width={34}
-                height={34}
-                alt=""
-              />
             </Link>
           </div>
 

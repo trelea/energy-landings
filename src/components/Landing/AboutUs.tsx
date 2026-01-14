@@ -32,7 +32,7 @@ export default function AboutUs() {
                 </div>
                 <div className="relative">
                     <div className="absolute -inset-4 bg-primary/5 rounded-3xl -z-10"></div>
-                    <Image src="/about.webp" alt="About Us" width={500} height={400} className="rounded-2xl shadow-lg" />
+                    <Image src="/about.jpg" alt="About Us" width={500} height={400} className="rounded-2xl shadow-lg object-cover aspect-[16/12]" />
                 </div>
             </div>
         </div>

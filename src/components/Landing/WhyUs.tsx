@@ -36,7 +36,7 @@ export default function WhyUs() {
                         {/* Center Image */}
                         <div className='hidden xl:block relative'>
                             <div className='absolute inset-0 bg-primary/5 rounded-full blur-3xl'></div>
-                            <Image src={'/whyus.webp'} alt='Why Us' width={400} height={400} className='relative rounded-2xl' />
+                            <Image src={'/whyus.png'} alt='Why Us' width={400} height={400} className='relative rounded-2xl' />
                         </div>
 
                         {/* Right Column */}

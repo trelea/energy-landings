@@ -20,7 +20,7 @@ export default async function Home() {
 
       <WhyUs />
 
-      <div id="services">
+      <div id="services" className='w-full'>
         <ServicesLanding />
       </div>
 

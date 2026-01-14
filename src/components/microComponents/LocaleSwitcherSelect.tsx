@@ -88,7 +88,7 @@ export const LocaleSwitcherSelect: React.FC<Props> = ({ defaultValue, items, lab
           transition-colors
           duration-200
           text-gray-400
-          ${isPending ? 'opacity-50 cursor-not-allowed' : 'hover:text-blue-600'}
+          ${isPending ? 'opacity-50 cursor-not-allowed' : 'hover:text-green-600'}
         `}
         aria-haspopup="listbox"
         aria-expanded={isOpen}
@@ -130,7 +130,7 @@ export const LocaleSwitcherSelect: React.FC<Props> = ({ defaultValue, items, lab
                   duration-150
                   ${
                     option.value === locale
-                      ? 'bg-blue-50 text-blue-600 font-medium'
+                      ? 'bg-blue-50 text-green-600 font-medium'
                       : 'text-gray-700 hover:bg-gray-50 hover:text-gray-900'
                   }
                 `}

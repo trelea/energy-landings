@@ -29,17 +29,15 @@ export default function Hero() {
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 items-start sm:items-center">
               <a
                 href="#contact"
-                className="bg-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-[#eeeeee] transition-colors"
+                className="bg-white py-4 px-6 rounded-full flex items-center justify-between gap-3 hover:bg-[#eeeeee] transition-colors"
               >
                 <span className="text-[#001D3D] font-medium">{t('cta')}</span>
-                <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
               </a>
               <a
                 href="#services"
-                className="border border-white/40 text-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
+                className="border border-white/40 text-white py-4 px-6 rounded-full flex items-center backdrop-blur-3xl justify-between gap-3 hover:bg-white/10 transition-colors"
               >
                 <span className="font-medium">{t('cta2')}</span>
-                <Image src="/icons/arrow-up-empty.svg" width={34} height={34} alt="" />
               </a>
             </div>
 
@@ -149,20 +147,6 @@ export default function Hero() {
                       <span>{t('tva')}</span>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Banking Info Card */}
-            <div className="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4 text-white">
-              <div className="flex items-start gap-3">
-                <svg className="w-5 h-5 mt-0.5 flex-shrink-0 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
-                </svg>
-                <div className="flex flex-col gap-1 text-sm">
-                  <span className="font-medium">{t('bankingLabel')}</span>
-                  <span className="text-xs opacity-80 break-all">{t('iban')}</span>
-                  <span className="text-xs opacity-60">{t('bankCode')}</span>
                 </div>
               </div>
             </div>
