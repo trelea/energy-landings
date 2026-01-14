@@ -6,40 +6,38 @@ export default function CtaBlock() {
   const t = useTranslations('CtaBlock')
 
   return (
-    <div className="xl:container xl:max-w-screen-xl mx-auto w-full lg:px-4 py-16 text-white">
-      <div className="cta-block py-20 lg:py-24 px-10 relative z-0 overflow-hidden lg:rounded-[56px]">
-        <div className="flex flex-col gap-8 lg:gap-12 items-center justify-center">
-          <div className="flex flex-col gap-4 items-center justify-center">
-            <span className="font-medium text-3xl lg:text-[56px] text-center max-w-4xl leading-snug">
-              {t('title')}
+    <div className="xl:container xl:max-w-screen-xl mx-auto w-full lg:px-4 py-12 lg:py-16 text-white">
+      <div className="cta-block py-16 lg:py-20 px-6 lg:px-12 relative z-0 overflow-hidden lg:rounded-3xl">
+        <div className="flex flex-col lg:flex-row gap-8 lg:gap-12 items-center justify-between max-w-5xl mx-auto">
+          <div className="flex flex-col gap-4 items-center lg:items-start text-center lg:text-left">
+            <span className="text-sm uppercase tracking-wider opacity-80 font-medium">
+              {t('label')}
             </span>
-            <span className="text-center max-w-screen-md">{t('subtitle')}</span>
+            <h2 className="font-semibold text-2xl lg:text-4xl max-w-xl leading-snug">
+              {t('title')}
+            </h2>
+            <p className="max-w-lg opacity-90 text-sm lg:text-base">{t('subtitle')}</p>
           </div>
 
-          <Link
-            href="/contacts"
-            className="bg-white ps-6 p-3 rounded-full flex items-center justify-between gap-2 hover:bg-[#eeeeee]"
-          >
-            <span className="text-[#001D3D] font-medium">{t('button')}</span>
-            <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
-          </Link>
+          <div className="flex flex-col gap-3 items-center">
+            <Link
+              href="#contact"
+              className="bg-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-gray-100 transition-colors"
+            >
+              <span className="text-[#001D3D] font-medium whitespace-nowrap">{t('button')}</span>
+              <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
+            </Link>
+            <Link
+              href="tel:+373246210 97"
+              className="border border-white/30 ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
+            >
+              <span className="font-medium whitespace-nowrap">{t('phone')}</span>
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+              </svg>
+            </Link>
+          </div>
         </div>
-
-        <Image
-          src={'/icons/cta-element.png'}
-          alt="Cta Background"
-          width={600}
-          height={600}
-          className="absolute top-0 -translate-x-1/2 -translate-y-1/2 left-0 -z-10"
-        />
-
-        <Image
-          src={'/icons/cta-element.png'}
-          alt="Cta Background"
-          width={600}
-          height={600}
-          className="absolute bottom-0 translate-x-1/2 translate-y-1/2 right-0 -z-10"
-        />
       </div>
     </div>
   )

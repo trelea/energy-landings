@@ -97,7 +97,6 @@ export default function Footer() {
                         </div>
                     </div>
                 </div>
-                <Image src="/footerbg.png" alt="footerbg" width={900} height={900} className="absolute top-0 right-0 -translate-x-10 -translate-y-[10%] hidden md:block -z-10"/>
             </footer>
 
             {/* Legal Modal */}

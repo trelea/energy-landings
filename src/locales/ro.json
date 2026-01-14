@@ -7,27 +7,57 @@
     "button": "Obține Consultanță"
   },
   "Hero": {
-    "label": "Energie Regenerabilă",
-    "title1": "Descoperă Puterea Energiei Verde",
+    "label": "Energie Regenerabilă - Solar & Eolian",
+    "title1": "Danilex MVM - Lider în Energie Verde",
     "cta": "Incepe Acum",
-    "motto": "“Nu e doar despre energie. E despre a face parte din schimbare.”",
-    "author": "— Echipa SOLOTRANS-AGRO SRL",
-    "cta2": "Schimbăți Traiul, Incepând de Acum",
-    "subtitle": "Sistemele noastre fotovoltaice folosesc exclusiv energia solară, o resursă regenerabilă, curată și inepuizabilă."
+    "motto": "Nu e doar despre energie. E despre a face parte din schimbare.",
+    "author": "— Echipa Danilex MVM",
+    "cta2": "Vezi Serviciile",
+    "subtitle": "Sistemele noastre fotovoltaice și eoliene folosesc energii regenerabile, curate și inepuizabile pentru un viitor sustenabil.",
+    "companyName": "SC DANLEX-MVM SRL",
+    "location": "MD4601 r. Moldova, Edineț",
+    "legalAddress": "str. A.Mateevici No18",
+    "legalAddressLabel": "Adresă juridică",
+    "postalAddress": "str. 31 August No6",
+    "postalAddressLabel": "Adresă poștală",
+    "phone1": "+373 246 2 10 97",
+    "phone2": "+373 696 41 153",
+    "email": "danlexmvm@gmail.com",
+    "director": "Director: Moldovan Veaceslav",
+    "contactLabel": "Contact",
+    "fiscalCode": "1007604000644",
+    "tva": "5500631",
+    "bankingLabel": "Detalii Bancare",
+    "iban": "MD16FT222431500000064498",
+    "bankCode": "c/b FTMD2X423",
+    "stat1Value": "6600 kW",
+    "stat1Label": "Capacitate instalată",
+    "stat2Value": "50+",
+    "stat2Label": "Proiecte finalizate",
+    "stat3Value": "100%",
+    "stat3Label": "Clienți mulțumiți"
   },
   "AboutUs": {
-    "title": "Despre compania noastră",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova ce activează în domeniul  energetic. Ne-am angajat să oferim soluții moderne, sustenabile și eficiente pentru clienții noștri. Cu o echipă dedicată și profesionistă, contribuim la un viitor mai verde.",
+    "label": "Cine suntem",
+    "title": "Despre Danilex MVM",
+    "description": "Danilex MVM este o companie din Republica Moldova specializată în energie regenerabilă - soluții solare și eoliene. Suntem angajați să oferim tehnologii moderne, sustenabile și eficiente pentru un viitor mai verde. Cu o echipă dedicată și profesionistă, contribuim activ la tranziția energetică a țării.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
-    "label3": "Clienți mulțumiți"
+    "label3": "Clienți mulțumiți",
+    "stat1Value": "2018",
+    "stat1Label": "Anul înființării",
+    "stat2Value": "50+",
+    "stat2Label": "Proiecte realizate",
+    "stat3Value": "6600 kW",
+    "stat3Label": "Capacitate instalată"
   },
   "WhyUs": {
-    "title": "Energie solară pentru o lume mai curată",
+    "label": "De ce să alegi Danilex MVM",
+    "title": "Energie regenerabilă pentru o lume mai curată",
     "points": {
       "1": {
         "title": "Energie 100% Curată",
-        "description": "Panourile solare folosesc lumina naturală pentru a produce energie fără emisii și fără poluare."
+        "description": "Sistemele solare și eoliene produc energie fără emisii și fără poluare, contribuind la protecția mediului."
       },
       "2": {
         "title": "Economie Pe Termen Lung",
@@ -39,27 +69,32 @@
       },
       "4": {
         "title": "Valoare Adăugată Proprietății",
-        "description": "O locuință cu panouri solare este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "description": "O proprietate cu sisteme regenerabile este mai atractivă, mai modernă și mai valoroasă pe piață."
       }
     }
   },
   "ServicesLanding": {
-    "title": "Serviciile Noastre"
+    "label": "Ce oferim",
+    "title": "Serviciile Noastre",
+    "button": "Toate serviciile"
   },
   "CtaBlock": {
-    "title": "Ești pregătit să începi tranziția către energie solară?",
-    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem fotovoltaic adaptat nevoilor tale.",
-    "button": "Incepe Acum"
+    "label": "Fă primul pas",
+    "title": "Ești pregătit să începi tranziția către energie verde?",
+    "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem regenerabil adaptat nevoilor tale.",
+    "button": "Contactează-ne",
+    "phone": "+373 246 2 10 97"
   },
   "NewsLanding": {
-    "title": "Ultimele noutăți din domeniul solar",
+    "label": "Blogul nostru",
+    "title": "Ultimele noutăți din energie regenerabilă",
     "button": "Vezi tot"
   },
   "Contact": {
     "title": "Începe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată, consultanță sau întrebări despre soluțiile fotovoltaice.",
-    "mail": "revenco.office.md@gmail.com",
-    "phone": "062 162 588",
+    "subtitle": "Contactează-ne pentru o ofertă personalizată, consultanță sau întrebări despre soluțiile regenerabile.",
+    "mail": "danlexmvm@gmail.com, danlex.contabil@mail.ru",
+    "phone": "+373 246 2 10 97, +373 696 41 153",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
@@ -73,11 +108,13 @@
     "subdescription1": "Îți răspundem în maxim 24 de ore la orice solicitare: cerere de ofertă, întrebare tehnică sau detalii despre instalare.",
     "subtitle2": "Consultanță Personalizată",
     "subdescription2": "Oferim soluții adaptate nevoilor tale, cu explicații transparente despre costuri, randament și beneficii reale.",
-    "subtitle3": "Asistență post-contract (B2B)",
-    "subdescription3": "Oferim suport continuu după semnare: implementare rapidă, coordonare tehnică și livrări eficiente de energie."
+    "subtitle3": "Asistență post-contract",
+    "subdescription3": "Oferim suport continuu după semnare: implementare rapidă, coordonare tehnică și livrări eficiente de energie.",
+    "successMessage": "Mesajul a fost trimis cu succes! Vă vom contacta în curând.",
+    "errorMessage": "A apărut o eroare. Vă rugăm să încercați din nou."
   },
   "Footer": {
-    "description": "SOLOTRANS-AGRO SRL • Calea Basarabiei 8-8A, Chișinău • TVA 0504962 • c/f 1006600023882 • BC ProCredit Bank S.A. • BIC PRCBMD22",
+    "description": "SC DANLEX-MVM SRL • MD4601 r. Moldova, Edineț • str. A.Mateevici No18 • c/f 1007604000644 • TVA 5500631 • IBAN MD16FT222431500000064498 • c/b FTMD2X423",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -87,12 +124,12 @@
     "link5": "Contact",
     "privacyPolicy": "Politica de Confidențialitate",
     "termsOfService": "Termeni și Condiții",
-    "privacyPolicyContent": "Politica de confidențialitate a SOLOTRANS-AGRO SRL stabilește modul în care colectăm, utilizăm, protejăm și păstrăm datele personale ale clienților, partenerilor și utilizatorilor platformei noastre. Suntem dedicați respectării celor mai înalte standarde de protecție a datelor, în conformitate cu Legea nr. 133/2011 privind protecția datelor cu caracter personal și cu prevederile GDPR.\n\nDatele colectate pot include: nume, prenume, adresa de email, număr de telefon, adrese de livrare, precum și informații tehnice (adrese IP, cookies, date de navigare). Acestea sunt prelucrate strict în scopul oferirii de servicii, consultanță personalizată, emitere de oferte, analiză statistică și comunicare cu utilizatorii.\n\nDatele nu sunt transmise către terți decât în situațiile prevăzute de lege sau către parteneri contractuali implicați direct în livrarea serviciilor. SOLOTRANS-AGRO SRL nu vinde, nu comercializează și nu cedează informațiile personale către terți în scopuri comerciale.\n\nToate datele sunt stocate în condiții de maximă siguranță, cu acces limitat și măsuri tehnice și organizatorice conforme. Aveți dreptul de a solicita accesul la datele dumneavoastră, rectificarea, ștergerea sau restricționarea prelucrării, printr-un email transmis la solotrans-agro@mail.ru.\n\nPolitica poate fi modificată în funcție de modificările legislative sau operaționale. Recomandăm consultarea periodică a paginii pentru cele mai recente actualizări.",
-    "termsOfServiceContent": "Termenii și condițiile de utilizare a site-ului SOLOTRANS-AGRO SRL reglementează relația dintre utilizatori și companie. Accesând sau folosind site-ul nostru, sunteți de acord cu aceste condiții legale și cu respectarea acestora.\n\n1. Descrierea Serviciilor\nSOLOTRANS-AGRO SRL oferă servicii și produse în domeniul energiei regenerabile, în special soluții fotovoltaice. Toate informațiile prezentate pe site sunt cu titlu informativ și pot fi modificate fără notificare prealabilă.\n\n2. Obligațiile Utilizatorului\nUtilizatorul este responsabil pentru furnizarea de informații reale și complete în formularele de contact. Nu sunt permise utilizarea site-ului în scopuri frauduloase sau contrare legislației în vigoare.\n\n3. Drepturi de Autor\nConținutul site-ului (texte, imagini, grafice, logo-uri) este proprietatea SOLOTRANS-AGRO SRL și nu poate fi copiat, distribuit sau utilizat fără acordul scris al companiei.\n\n4. Limitarea Răspunderii\nCompania nu răspunde pentru eventualele erori de tipar, întârzieri tehnice sau întreruperi de funcționare temporare ale site-ului. De asemenea, nu garantăm disponibilitatea permanentă a serviciilor.\n\n5. Protecția Datelor\nPrin utilizarea site-ului, sunteți de acord cu Politica de Confidențialitate a SOLOTRANS-AGRO SRL, care detaliază modul în care sunt colectate și utilizate datele dumneavoastră personale.\n\n6. Litigii\nOrice dispută apărută între părți va fi soluționată pe cale amiabilă, iar în caz contrar, de instanțele competente din Republica Moldova.\n\nPrin utilizarea site-ului nostru, declarați că ați citit și înțeles acești termeni și sunteți de acord să îi respectați."
+    "privacyPolicyContent": "Politica de confidențialitate a SC DANLEX-MVM SRL stabilește modul în care colectăm, utilizăm, protejăm și păstrăm datele personale ale clienților, partenerilor și utilizatorilor platformei noastre. Suntem dedicați respectării celor mai înalte standarde de protecție a datelor, în conformitate cu Legea nr. 133/2011 privind protecția datelor cu caracter personal și cu prevederile GDPR.\n\nDatele colectate pot include: nume, prenume, adresa de email, număr de telefon, adrese de livrare, precum și informații tehnice (adrese IP, cookies, date de navigare). Acestea sunt prelucrate strict în scopul oferirii de servicii, consultanță personalizată, emitere de oferte, analiză statistică și comunicare cu utilizatorii.\n\nDatele nu sunt transmise către terți decât în situațiile prevăzite de lege sau către parteneri contractuali implicați direct în livrarea serviciilor. SC DANLEX-MVM SRL nu vinde, nu comercializează și nu cedează informațiile personale către terți în scopuri comerciale.\n\nToate datele sunt stocate în condiții de maximă siguranță, cu acces limitat și măsuri tehnice și organizatorice conforme. Aveți dreptul de a solicita accesul la datele dumneavoastră, rectificarea, ștergerea sau restricționarea prelucrării, printr-un email transmis la danlexmvm@gmail.com.\n\nPolitica poate fi modificată în funcție de modificările legislative sau operaționale. Recomandăm consultarea periodică a paginii pentru cele mai recente actualizări.",
+    "termsOfServiceContent": "Termenii și condițiile de utilizare a site-ului SC DANLEX-MVM SRL reglementează relația dintre utilizatori și companie. Accesând sau folosind site-ul nostru, sunteți de acord cu aceste condiții legale și cu respectarea acestora.\n\n1. Descrierea Serviciilor\nSC DANLEX-MVM SRL oferă servicii și produse în domeniul energiei regenerabile, în special soluții fotovoltaice și eoliene. Toate informațiile prezentate pe site sunt cu titlu informativ și pot fi modificate fără notificare prealabilă.\n\n2. Obligațiile Utilizatorului\nUtilizatorul este responsabil pentru furnizarea de informații reale și complete în formularele de contact. Nu sunt permise utilizarea site-ului în scopuri frauduloase sau contrare legislației în vigoare.\n\n3. Drepturi de Autor\nConținutul site-ului (texte, imagini, grafice, logo-uri) este proprietatea SC DANLEX-MVM SRL și nu poate fi copiat, distribuit sau utilizat fără acordul scris al companiei.\n\n4. Limitarea Răspunderii\nCompania nu răspunde pentru eventualele erori de tipar, întârzieri tehnice sau întreruperi de funcționare temporare ale site-ului. De asemenea, nu garantăm disponibilitatea permanentă a serviciilor.\n\n5. Protecția Datelor\nPrin utilizarea site-ului, sunteți de acord cu Politica de Confidențialitate a SC DANLEX-MVM SRL, care detaliază modul în care sunt colectate și utilizate datele dumneavoastră personale.\n\n6. Litigii\nOrice dispută apărută între părți va fi soluționată pe cale amiabilă, iar în caz contrar, de instanțele competente din Republica Moldova.\n\nPrin utilizarea site-ului nostru, declarați că ați citit și înțeles acești termeni și sunteți de acord să îi respectați."
   },
   "OurStory": {
-    "title": "SOLOTRANS-AGRO",
-    "description": "SOLOTRANS-AGRO SRL este o companie din Republica Moldova, activă în domeniile energiei regenerabile și agriculturii, cu un angajament ferm pentru sustenabilitate, inovație și eficiență. Cu sediul central în municipiul Chișinău și investiții strategice în infrastructură energetică, compania contribuie activ la tranziția verde a țării și la reducerea amprentei de carbon.\n\nÎn comuna Heciul Nou, raionul Sîngerei, operăm o centrală electrică fotovoltaică de ultimă generație, cu o putere instalată de 6600 kW. Această unitate produce energie 100% regenerabilă, utilizând tehnologii moderne precum panouri fotovoltaice performante, invertoare trifazate HUAWEI ON-GRID, stații de transformare de înaltă fiabilitate și sisteme inteligente de monitorizare.\n\nSuntem deținători ai licenței oficiale pentru producerea energiei electrice din surse regenerabile, emisă de ANRE, valabilă până în anul 2049. Acest cadru legal ne permite să livrăm energie verde în rețelele naționale și să încheiem parteneriate strategice cu operatori economici, autorități publice și alte entități interesate de soluții energetice curate și eficiente.\n\nAvem o echipă de profesioniști specializați în domeniul energetic, inginerie electrică și management de proiect. Fiecare proiect implementat de SOLOTRANS-AGRO este ghidat de excelență operațională, integritate și eficiență energetică. Ne propunem să devenim un model de referință pentru energia solară din Republica Moldova, oferind nu doar electricitate curată, ci și valoare adăugată pentru societate și economie.",
+    "title": "Danilex MVM",
+    "description": "SC DANLEX-MVM SRL este o companie din Republica Moldova care activează în domeniul energiei regenerabile, cu focus pe soluții fotovoltaice și eoliene. Cu sediul în Edineț, MD4601, oferim servicii complete de la consultanță la instalare și mentenanță pentru sisteme de energie verde.\n\nSub conducerea directorului Moldovan Veaceslav, compania s-a dezvoltat ca furnizor de încredere de energie regenerabilă în Moldova, contribuind activ la tranziția către sustenabilitate și reducerea amprentei de carbon. Ne dedicăm dezvoltării de soluții energetice curate și eficiente pentru comunități și afaceri.\n\nCu o echipă de profesioniști specializați în domeniul energetic și inginerie electrică, fiecare proiect implementat de Danilex MVM este ghidat de excelență operațională, integritate și eficiență energetică. Ne propunem să devenim un model de referință pentru energia regenerabilă din Republica Moldova, oferind nu doar electricitate curată, ci și valoare adăugată pentru societate și economie.",
     "image": "/about/our-story.png"
   },
   "Certifications": {
@@ -107,7 +144,7 @@
     "steps": [
       {
         "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția fotovoltaică potrivită – clar, transparent și personalizat.",
+        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția regenerabilă potrivită – clar, transparent și personalizat.",
         "image": "/about/process/step1.svg",
         "button": "Consultatie Gratuita"
       },
@@ -132,11 +169,65 @@
     "priviledge_title": "Informatii Privilegiate",
     "general_title": "Noutăți Generale",
     "moreBlogs": "Ne poți urmări pe blogul nostru pentru a fi la curent cu ultimele noutăți.",
-    "moreBlogsDescription": "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
+    "moreBlogsDescription": "Află mai multe despre inovațiile din sectorul energiei regenerabile, studii de caz și sfaturi utile pentru maximizarea eficienței sistemelor fotovoltaice și eoliene. Aici găsești articole detaliate, interviuri cu experți și informații despre proiectele noastre recente."
   },
   "LocaleSwitcher": {
     "ro": "Română",
     "ru": "Rusă",
     "label": "Limbă"
+  },
+  "Statistics": {
+    "label": "În cifre",
+    "title": "Impactul Nostru",
+    "capacity": "6600 kW",
+    "capacityLabel": "Capacitate Instalată",
+    "projects": "50+",
+    "projectsLabel": "Proiecte Finalizate",
+    "energy": "8500 MWh",
+    "energyLabel": "Energie Generată Anual",
+    "satisfaction": "100%",
+    "satisfactionLabel": "Satisfacție Clienți"
+  },
+  "Testimonials": {
+    "label": "Testimoniale",
+    "title": "Ce spun clienții noștri",
+    "items": [
+      {
+        "quote": "Servicii profesionale și echipament de calitate superioară. Suntem foarte mulțumiți de rezultate și de suportul echipei Danilex MVM!",
+        "author": "Ion Popescu",
+        "company": "Ferma Agro Moldova"
+      },
+      {
+        "quote": "Tranziția la energie verde a fost facilă datorită echipei Danilex MVM. Instalarea a fost rapidă și eficientă, iar economiile sunt vizibile din prima lună.",
+        "author": "Maria Ionescu",
+        "company": "Complexul Turistic Verde"
+      },
+      {
+        "quote": "Recomand cu încredere! Profesionalism exemplar, suport tehnic excelent și o echipă dedicată care răspunde prompt la toate solicitările.",
+        "author": "Andrei Vasile",
+        "company": "Production Center SRL"
+      }
+    ]
+  },
+  "Timeline": {
+    "title": "Parcursul Nostru",
+    "items": [
+      {
+        "year": "2018",
+        "event": "Înființarea companiei SC DANLEX-MVM SRL în Edineț, Moldova"
+      },
+      {
+        "year": "2020",
+        "event": "Prima instalare solară de succes și extinderea echipei de specialiști"
+      },
+      {
+        "year": "2023",
+        "event": "Instalare centrală fotovoltaică de 6600 kW și dezvoltare soluții eoliene"
+      },
+      {
+        "year": "2026",
+        "event": "Lider regional în energie regenerabilă cu peste 50 de proiecte implementate"
+      }
+    ]
   }
 }

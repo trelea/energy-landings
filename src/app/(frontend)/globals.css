@@ -1,5 +1,13 @@
 @import 'tailwindcss';
 
+@theme {
+  --color-primary: #2D5016;
+  --color-primary-dark: #1F3810;
+  --color-primary-light: #E8F5E1;
+  --color-primary-medium: #4A7C2E;
+  --color-bg-light: #F2F9EF;
+}
+
 * {
   -webkit-font-smoothing: antialiased;
   @apply outline-sky-600;
@@ -15,13 +23,33 @@ body {
 }
 
 .hero-bg {
-  background-image: url('/herobg.webp');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/bgnow.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   background-repeat: no-repeat;
-  background-position: center;
 }
 
+/* Utility classes for forest green color palette */
+.text-primary { color: #2D5016; }
+.bg-primary { background-color: #2D5016; }
+.bg-primary-light { background-color: #E8F5E1; }
+.border-primary { border-color: #2D5016; }
+.hover\:bg-primary-dark:hover { background-color: #1F3810; }
+.hover\:bg-primary-medium:hover { background-color: #4A7C2E; }
+
+/* Component-specific gradients */
 .cta-block {
-  background: radial-gradient(64% 64% at 50% 36%, #4CAF50, #38803A 100%);
+  background: radial-gradient(64% 64% at 50% 36%, #2D5016, #1F3810 100%);
+}
+
+.gradient-primary {
+  background: linear-gradient(to bottom, #2D5016, #1F3810);
+}
+
+.gradient-badge {
+  background: linear-gradient(to bottom, #2D5016, #1F3810);
+}
+
+.gradient-card-light {
+  background: linear-gradient(to bottom, #F2F9EF, #E8F5E1);
 }

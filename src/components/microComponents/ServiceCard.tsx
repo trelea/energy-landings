@@ -25,7 +25,7 @@ export default function ServiceCard({ title, description, imageUrl, redirectLink
 
                 <p className='text-[#666666]'>{description}</p>
                 
-                <a href={redirectLink} className='text-[#4CAF50] font-medium flex items-center gap-2'>
+                <a href={redirectLink} className='text-primary font-medium flex items-center gap-2'>
                     Mai mult
                     <Image src="/icons/arrow-up-right-blue.svg" alt="chevron" width={18} height={17} />
                 </a>
