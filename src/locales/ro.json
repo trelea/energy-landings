@@ -8,13 +8,13 @@
   },
   "Hero": {
     "label": "Energie Regenerabilă - Eolian",
-    "title1": "Danilex MVM - Lider în Energie Verde",
+    "title1": "Danilex MVM - Viitorul Funționează pe Energie Verde",
     "cta": "Incepe Acum",
     "motto": "Nu e doar despre energie. E despre a face parte din schimbare.",
     "author": "— Echipa Danilex MVM",
     "cta2": "Vezi Serviciile",
-    "subtitle": "Sistemele noastre fotovoltaice și eoliene folosesc energii regenerabile, curate și inepuizabile pentru un viitor sustenabil.",
-    "companyName": "SC DANLEX-MVM SRL",
+    "subtitle": "Sistemele noastre eoliene folosesc energii regenerabile, curate și inepuizabile pentru un viitor sustenabil.",
+    "companyName": "DANLEX-MVM SRL",
     "location": "MD4601 r. Moldova, Edineț",
     "legalAddress": "str. A.Mateevici No18",
     "legalAddressLabel": "Adresă juridică",
@@ -40,7 +40,7 @@
   "AboutUs": {
     "label": "Cine suntem",
     "title": "Despre Danilex MVM",
-    "description": "Danilex MVM este o companie din Republica Moldova specializată în energie regenerabilă - soluții solare și eoliene. Suntem angajați să oferim tehnologii moderne, sustenabile și eficiente pentru un viitor mai verde. Cu o echipă dedicată și profesionistă, contribuim activ la tranziția energetică a țării.",
+    "description": "Danilex MVM este o companie din Republica Moldova specializată în energie regenerabilă - soluții eoliene. Suntem angajați să oferim tehnologii moderne, sustenabile și eficiente pentru un viitor mai verde. Cu o echipă dedicată și profesionistă, contribuim activ la tranziția energetică a țării.",
     "label1": "Economii generate",
     "label2": "Sisteme instalate",
     "label3": "Clienți mulțumiți",
@@ -57,7 +57,7 @@
     "points": {
       "1": {
         "title": "Energie 100% Curată",
-        "description": "Sistemele solare și eoliene produc energie fără emisii și fără poluare, contribuind la protecția mediului."
+        "description": "Sistemele eoliene produc energie fără emisii și fără poluare, contribuind la protecția mediului."
       },
       "2": {
         "title": "Economie Pe Termen Lung",
@@ -68,8 +68,8 @@
         "description": "Controlezi propriul consum și devii mai puțin dependent de rețelele clasice."
       },
       "4": {
-        "title": "Valoare Adăugată Proprietății",
-        "description": "O proprietate cu sisteme regenerabile este mai atractivă, mai modernă și mai valoroasă pe piață."
+        "title": "Tehnologie Durabilă",
+        "description": "Instalațiile eoliene sunt proiectate pentru o durată de viață de peste 20 de ani, cu mentenanță minimă."
       }
     }
   },
@@ -80,10 +80,10 @@
   },
   "CtaBlock": {
     "label": "Fă primul pas",
-    "title": "Ești pregătit să începi tranziția către energie verde?",
+    "title": "Ești pregătit să afli mai multe despre tranziția către energie regenerabilă?",
     "subtitle": "Contactează-ne astăzi pentru o ofertă personalizată și vezi cât poți economisi cu un sistem regenerabil adaptat nevoilor tale.",
     "button": "Contactează-ne",
-    "phone": "+373 246 21 097"
+    "phone": "+373 696 41 153"
   },
   "NewsLanding": {
     "label": "Blogul nostru",
@@ -91,10 +91,10 @@
     "button": "Vezi tot"
   },
   "Contact": {
-    "title": "Începe Acum",
-    "subtitle": "Contactează-ne pentru o ofertă personalizată, consultanță sau întrebări despre soluțiile regenerabile.",
-    "mail": "danlexmvm@gmail.com, danlex.contabil@mail.ru",
-    "phone": "+373 246 21 097, +373 696 41 153",
+    "title": "Energie Eoliană de Încredere",
+    "subtitle": "Dezvoltăm soluții energetice care combină performanța tehnologică cu respectul față de natură și comunitate.",
+    "mail": "danlexmvm@gmail.com",
+    "phone": "+373 696 41 153",
     "button": "Support Clienți",
     "formTitle": "Contactați-ne",
     "formSubtitle": "Ne puteți contacta oricând",
@@ -104,17 +104,17 @@
     "phoneLabel": "Telefon",
     "messageLabel": "Cum te putem ajuta?",
     "submitButton": "Trimite",
-    "subtitle1": "Răspundem Rapid",
-    "subdescription1": "Îți răspundem în maxim 24 de ore la orice solicitare: cerere de ofertă, întrebare tehnică sau detalii despre instalare.",
-    "subtitle2": "Consultanță Personalizată",
-    "subdescription2": "Oferim soluții adaptate nevoilor tale, cu explicații transparente despre costuri, randament și beneficii reale.",
+    "subtitle1": "Suntem un producător de energie eoliană dedicat dezvoltării durabile și securității energetice.",
+    "subdescription1": "Suntem un producător de energie eoliană dedicat dezvoltării durabile și securității energetice.",
+    "subtitle2": "Transformăm puterea vântului în energie pentru viitor.",
+    "subdescription2": "Transformăm puterea vântului în energie pentru viitor.",
     "subtitle3": "Asistență post-contract",
-    "subdescription3": "Oferim suport continuu după semnare: implementare rapidă, coordonare tehnică și livrări eficiente de energie.",
+    "subdescription3": "Dezvoltăm și operăm proiecte de energie eoliană fiabile și sustenabile.",
     "successMessage": "Mesajul a fost trimis cu succes! Vă vom contacta în curând.",
     "errorMessage": "A apărut o eroare. Vă rugăm să încercați din nou."
   },
   "Footer": {
-    "description": "SC DANLEX-MVM SRL • MD4601 r. Moldova, Edineț • str. A.Mateevici No18 • c/f 1007604000644 • TVA 5500631 • IBAN MD16FT222431500000064498 • c/b FTMD2X423",
+    "description": "DANLEX-MVM SRL \n MD4601 r. Moldova, Edineț \n str. A.Mateevici No18 \n +373 696 41 153",
     "sitemap": "Harta Site-ului",
     "backToTop": "Înapoi sus",
     "link1": "Acasă",
@@ -129,10 +129,10 @@
   },
   "OurStory": {
     "title": "Danilex MVM",
-    "description": "SC DANLEX-MVM SRL este o companie din Republica Moldova care activează în domeniul energiei regenerabile, cu focus pe soluții fotovoltaice și eoliene. Cu sediul în Edineț, MD4601, oferim servicii complete de la consultanță la instalare și mentenanță pentru sisteme de energie verde.\n\nSub conducerea directorului Moldovan Veaceslav, compania s-a dezvoltat ca furnizor de încredere de energie regenerabilă în Moldova, contribuind activ la tranziția către sustenabilitate și reducerea amprentei de carbon. Ne dedicăm dezvoltării de soluții energetice curate și eficiente pentru comunități și afaceri.\n\nCu o echipă de profesioniști specializați în domeniul energetic și inginerie electrică, fiecare proiect implementat de Danilex MVM este ghidat de excelență operațională, integritate și eficiență energetică. Ne propunem să devenim un model de referință pentru energia regenerabilă din Republica Moldova, oferind nu doar electricitate curată, ci și valoare adăugată pentru societate și economie.",
+    "description": "Danilex MVM este o companie specializată în domeniul energiei regenerabile eoliene, orientată spre dezvoltarea și operarea de soluții energetice sustenabile, adaptate cerințelor actuale de securitate energetică și protecție a mediului. \n\n Activitatea companiei se bazează pe valorificarea responsabilă a potențialului eolian, utilizând tehnologii moderne și infrastructură eficientă pentru a produce energie curată, sigură și predictibilă. Printr-o abordare strategică și orientată pe termen lung, Danilex MVM contribuie activ la tranziția energetică și la reducerea impactului asupra mediului. \n\n Compania își desfășoară activitatea respectând standarde ridicate de calitate, siguranță și conformitate legislativă, punând accent pe transparență, eficiență operațională și parteneriate solide. Fiecare proiect este dezvoltat cu atenție față de mediul înconjurător și comunitățile locale, având ca obiectiv crearea unui echilibru între performanța economică și responsabilitatea ecologică. \n\n Danilex MVM reprezintă un partener de încredere în sectorul energiei regenerabile, dedicat construirii unui viitor energetic durabil, bazat pe resurse naturale, inovație și profesionalism. \n",
     "image": "/about/our-story.png"
   },
-  "Certifications": {
+    "Certifications": {
     "title": "Certificări și Acreditări",
     "image1": "/about/certifications/cert1.png",
     "image2": "/about/certifications/cert2.png",
@@ -143,27 +143,28 @@
     "title": "Procesul de instalare",
     "steps": [
       {
-        "title": "Planificare și consultanță",
-        "description": "Totul începe cu o discuție detaliată despre nevoile și obiectivele clientului. Realizăm o analiză energetică, evaluăm locația și propunem soluția regenerabilă potrivită – clar, transparent și personalizat.",
+        "title": "Analiză și planificare",
+        "description": "Activitatea companiei începe cu evaluarea potențialului eolian și a condițiilor specifice fiecărei locații. Sunt analizate datele tehnice, factorii de mediu și cerințele de reglementare, pentru a asigura o planificare eficientă și sustenabilă a proiectelor energetice.",
         "image": "/about/process/step1.svg",
         "button": "Consultatie Gratuita"
       },
       {
-        "title": "Instalare profesionistă",
-        "description": "După aprobare, echipa noastră se ocupă de montajul complet: de la structura de prindere până la conectarea sistemului la rețea. Totul este realizat cu grijă, respectând standardele tehnice și de siguranță.",
+        "title": "Implementare și infrastructură",
+        "description": "Dezvoltarea parcurilor eoliene se realizează prin utilizarea unor soluții tehnologice moderne și a unei infrastructuri conforme cu standardele în vigoare. Fiecare etapă de implementare este gestionată cu atenție, cu accent pe siguranță, durabilitate și integrarea eficientă în rețea.",
         "image": "/about/process/step2.svg",
         "button": "Oferte Speciale"
       },
       {
-        "title": "Testare și livrare finală",
-        "description": "După instalare, verificăm întregul sistem, calibrăm producția și oferim instrucțiuni clare pentru monitorizare. Clientul primește toate documentele necesare și suportul nostru post-instalare.",
+        "title": "Monitorizare și funcționare",
+        "description": "După punerea în funcțiune, instalațiile eoliene sunt monitorizate continuu pentru a asigura performanța optimă și stabilitatea producției. Procesele de operare sunt susținute de sisteme de control și de o documentație tehnică completă, garantând exploatarea sigură pe termen lung.",
         "image": "/about/process/step3.svg",
         "button": "Montare Profesionistă"
       }
     ]
   },
   "Services": {
-    "title": "Serviciile Noastre"
+    "title": "Serviciile Danilex MVM",
+    "description": "Activitatea Danilex MVM se concentrează pe furnizarea de expertiză și soluții integrate în domeniul energiei eoliene, având ca obiectiv susținerea dezvoltării durabile și a proiectelor energetice eficiente. Printr-o abordare profesionistă și responsabilă, compania oferă suport specializat pe întregul ciclu de viață al proiectelor eoliene."
   },
   "News": {
     "priviledge_title": "Informatii Privilegiate",

@@ -10,13 +10,13 @@ export default function CtaBlock() {
       <div className="cta-block py-16 lg:py-20 px-6 lg:px-12 relative z-0 overflow-hidden lg:rounded-3xl">
         <div className="flex flex-col lg:flex-row gap-8 lg:gap-12 items-center justify-between max-w-5xl mx-auto">
           <div className="flex flex-col gap-4 items-center lg:items-start text-center lg:text-left">
-            <span className="text-sm uppercase tracking-wider opacity-80 font-medium">
+            {/* <span className="text-sm uppercase tracking-wider opacity-80 font-medium">
               {t('label')}
-            </span>
+            </span> */}
             <h2 className="font-semibold text-2xl lg:text-4xl max-w-xl leading-snug">
               {t('title')}
             </h2>
-            <p className="max-w-lg opacity-90 text-sm lg:text-base">{t('subtitle')}</p>
+            {/* <p className="max-w-lg opacity-90 text-sm lg:text-base">{t('subtitle')}</p> */}
           </div>
 
           <div className="flex flex-col gap-3 items-center">
@@ -27,7 +27,7 @@ export default function CtaBlock() {
               <span className="text-[#001D3D] font-medium whitespace-nowrap text-center">{t('button')}</span>
             </Link>
             <Link
-              href="tel:+37324621097"
+              href="tel:+37369641153"
               className="border border-white/30 py-4 px-6 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
             >
               <span className="font-medium whitespace-nowrap">{t('phone')}</span>

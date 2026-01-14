@@ -9,7 +9,7 @@ export default function WhyUs() {
             <div className='container max-w-screen-md xl:max-w-screen-xl mx-auto px-4'>
                 <div className='flex flex-col gap-10 lg:gap-14 xl:items-center justify-center'>
                     <div className='flex flex-col gap-3 xl:items-center'>
-                        <span className='text-primary font-medium text-sm uppercase tracking-wider'>{t('label')}</span>
+                        {/* <span className='text-primary font-medium text-sm uppercase tracking-wider'>{t('label')}</span> */}
                         <h2 className='font-semibold text-2xl lg:text-4xl max-w-lg xl:text-center leading-snug'>{t('title')}</h2>
                     </div>
 

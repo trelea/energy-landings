@@ -16,7 +16,7 @@ export default async function Home() {
 
       <AboutUs />
 
-      <Statistics />
+      {/* <Statistics /> */}
 
       <WhyUs />
 
@@ -24,7 +24,7 @@ export default async function Home() {
         <ServicesLanding />
       </div>
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <CtaBlock />
 

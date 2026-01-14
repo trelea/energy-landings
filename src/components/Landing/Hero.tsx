@@ -8,14 +8,14 @@ export default function Hero() {
   return (
     <div className="hero-bg w-full min-h-screen">
       <Navbar />
-      <div className="container mx-auto px-5 py-12 lg:py-16">
+      <div className="container mx-auto px-5 py-12 lg:py-10">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[75vh]">
           {/* Left Column - Main Content */}
           <div className="flex flex-col gap-6 lg:gap-8 justify-center">
             <div className="flex flex-col gap-4">
-              <span className="text-sm lg:text-base uppercase tracking-wider opacity-90 text-white font-medium">
+              {/* <span className="text-sm lg:text-base uppercase tracking-wider opacity-90 text-white font-medium">
                 {t('label')}
-              </span>
+              </span> */}
 
               <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white leading-tight">
                 {t('title1')}
@@ -41,7 +41,7 @@ export default function Hero() {
               </a>
             </div>
 
-            {/* Quick Stats - Desktop */}
+            {/* Quick Stats - Desktop
             <div className="hidden lg:flex gap-8 mt-4 pt-6 border-t border-white/20">
               <div className="flex flex-col">
                 <span className="text-2xl xl:text-3xl font-bold text-white">{t('stat1Value')}</span>
@@ -55,7 +55,7 @@ export default function Hero() {
                 <span className="text-2xl xl:text-3xl font-bold text-white">{t('stat3Value')}</span>
                 <span className="text-sm text-white/70">{t('stat3Label')}</span>
               </div>
-            </div>
+            </div> */}
 
             {/* Motto Card - Mobile/Tablet */}
             <div className="lg:hidden flex flex-col gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-5 rounded-xl backdrop-blur-md">
@@ -75,7 +75,7 @@ export default function Hero() {
                   <h3 className="text-xl lg:text-2xl font-bold mb-1">
                     {t('companyName')}
                   </h3>
-                  <p className="text-sm opacity-80">{t('location')}</p>
+                  {/* <p className="text-sm opacity-80">{t('location')}</p> */}
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
@@ -129,7 +129,6 @@ export default function Hero() {
                   </div>
                 </div>
 
-                {/* Director & Fiscal Info */}
                 <div className="border-t border-white/20 pt-3 mt-1">
                   <div className="flex items-center gap-2 mb-2">
                     <svg className="w-4 h-4 flex-shrink-0 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -137,7 +136,7 @@ export default function Hero() {
                     </svg>
                     <span className="text-sm">{t('director')}</span>
                   </div>
-                  <div className="grid grid-cols-2 gap-2 text-xs opacity-80">
+                  {/* <div className="grid grid-cols-2 gap-2 text-xs opacity-80">
                     <div>
                       <span className="opacity-70">c/f: </span>
                       <span>{t('fiscalCode')}</span>
@@ -146,7 +145,7 @@ export default function Hero() {
                       <span className="opacity-70">TVA: </span>
                       <span>{t('tva')}</span>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

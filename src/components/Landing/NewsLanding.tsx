@@ -22,7 +22,7 @@ export default async function NewsLanding() {
                 <div className='flex flex-col gap-8 xl:items-center justify-center'>
                     <div className='flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 w-full'>
                         <div className='flex flex-col gap-2'>
-                            <span className='text-primary font-medium text-sm uppercase tracking-wider'>{t('label')}</span>
+                            {/* <span className='text-primary font-medium text-sm uppercase tracking-wider'>{t('label')}</span> */}
                             <h2 className='font-semibold text-2xl lg:text-3xl'>{t('title')}</h2>
                         </div>
 

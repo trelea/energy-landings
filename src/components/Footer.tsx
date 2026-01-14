@@ -57,7 +57,7 @@ export default function Footer() {
                                 width={200}
                                 height={50}
                             />
-                            <span>{t("description")}</span>
+                            <span className="whitespace-pre-line">{t("description")}</span>
                         </div>
 
                         {/* <div className="flex items-center gap-8">
@@ -70,7 +70,7 @@ export default function Footer() {
                     </div>
                     <div className="flex gap-28 ">
                         <div className="flex flex-col gap-8">
-                            <span className="font-semibold">{t("sitemap")}</span>
+                            {/* <span className="font-semibold">{t("sitemap")}</span> */}
                             <div className="flex flex-col gap-6 font-medium">
                                 {navigation.map((item) => (
                                     <a  key={item.name} 
@@ -82,7 +82,7 @@ export default function Footer() {
                         </div>
                         
                         <div className="flex flex-col gap-8">
-                            <span className="font-semibold">Legal</span>
+                            {/* <span className="font-semibold">Legal</span> */}
                             <div className="flex flex-col gap-6 font-medium">
                                 {legalLinks.map((item) => (
                                     <button 
