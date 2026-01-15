@@ -16,15 +16,15 @@ export default async function Home() {
 
       <AboutUs />
 
-      <Statistics />
+      {/* <Statistics /> */}
 
       <WhyUs />
 
-      <div id="services">
+      <div id="services" className='w-full'>
         <ServicesLanding />
       </div>
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <CtaBlock />
 

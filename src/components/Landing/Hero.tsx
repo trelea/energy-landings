@@ -8,14 +8,14 @@ export default function Hero() {
   return (
     <div className="hero-bg w-full min-h-screen">
       <Navbar />
-      <div className="container mx-auto px-5 py-12 lg:py-16">
+      <div className="container mx-auto px-5 py-12 lg:py-10">
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[75vh]">
           {/* Left Column - Main Content */}
           <div className="flex flex-col gap-6 lg:gap-8 justify-center">
             <div className="flex flex-col gap-4">
-              <span className="text-sm lg:text-base uppercase tracking-wider opacity-90 text-white font-medium">
+              {/* <span className="text-sm lg:text-base uppercase tracking-wider opacity-90 text-white font-medium">
                 {t('label')}
-              </span>
+              </span> */}
 
               <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white leading-tight">
                 {t('title1')}
@@ -29,21 +29,19 @@ export default function Hero() {
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 items-start sm:items-center">
               <a
                 href="#contact"
-                className="bg-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-[#eeeeee] transition-colors"
+                className="bg-white py-4 px-6 rounded-full flex items-center justify-between gap-3 hover:bg-[#eeeeee] transition-colors"
               >
                 <span className="text-[#001D3D] font-medium">{t('cta')}</span>
-                <Image src="/icons/arrow-up-filled.svg" width={34} height={34} alt="" />
               </a>
               <a
                 href="#services"
-                className="border border-white/40 text-white ps-6 p-3 rounded-full flex items-center justify-between gap-3 hover:bg-white/10 transition-colors"
+                className="border border-white/40 text-white py-4 px-6 rounded-full flex items-center backdrop-blur-3xl justify-between gap-3 hover:bg-white/10 transition-colors"
               >
                 <span className="font-medium">{t('cta2')}</span>
-                <Image src="/icons/arrow-up-empty.svg" width={34} height={34} alt="" />
               </a>
             </div>
 
-            {/* Quick Stats - Desktop */}
+            {/* Quick Stats - Desktop
             <div className="hidden lg:flex gap-8 mt-4 pt-6 border-t border-white/20">
               <div className="flex flex-col">
                 <span className="text-2xl xl:text-3xl font-bold text-white">{t('stat1Value')}</span>
@@ -57,7 +55,7 @@ export default function Hero() {
                 <span className="text-2xl xl:text-3xl font-bold text-white">{t('stat3Value')}</span>
                 <span className="text-sm text-white/70">{t('stat3Label')}</span>
               </div>
-            </div>
+            </div> */}
 
             {/* Motto Card - Mobile/Tablet */}
             <div className="lg:hidden flex flex-col gap-3 bg-[#76767666] border border-[#B1B1B1] text-white p-5 rounded-xl backdrop-blur-md">
@@ -77,7 +75,7 @@ export default function Hero() {
                   <h3 className="text-xl lg:text-2xl font-bold mb-1">
                     {t('companyName')}
                   </h3>
-                  <p className="text-sm opacity-80">{t('location')}</p>
+                  {/* <p className="text-sm opacity-80">{t('location')}</p> */}
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-sm">
@@ -131,7 +129,6 @@ export default function Hero() {
                   </div>
                 </div>
 
-                {/* Director & Fiscal Info */}
                 <div className="border-t border-white/20 pt-3 mt-1">
                   <div className="flex items-center gap-2 mb-2">
                     <svg className="w-4 h-4 flex-shrink-0 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -139,7 +136,7 @@ export default function Hero() {
                     </svg>
                     <span className="text-sm">{t('director')}</span>
                   </div>
-                  <div className="grid grid-cols-2 gap-2 text-xs opacity-80">
+                  {/* <div className="grid grid-cols-2 gap-2 text-xs opacity-80">
                     <div>
                       <span className="opacity-70">c/f: </span>
                       <span>{t('fiscalCode')}</span>
@@ -148,21 +145,7 @@ export default function Hero() {
                       <span className="opacity-70">TVA: </span>
                       <span>{t('tva')}</span>
                     </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Banking Info Card */}
-            <div className="bg-white/5 backdrop-blur-md border border-white/10 rounded-xl p-4 text-white">
-              <div className="flex items-start gap-3">
-                <svg className="w-5 h-5 mt-0.5 flex-shrink-0 opacity-80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
-                </svg>
-                <div className="flex flex-col gap-1 text-sm">
-                  <span className="font-medium">{t('bankingLabel')}</span>
-                  <span className="text-xs opacity-80 break-all">{t('iban')}</span>
-                  <span className="text-xs opacity-60">{t('bankCode')}</span>
+                  </div> */}
                 </div>
               </div>
             </div>

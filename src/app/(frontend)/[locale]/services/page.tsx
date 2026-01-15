@@ -20,6 +20,7 @@ export default async function ServicesPage() {
 
       <div className='container max-w-screen-md xl:max-w-screen-xl mx-auto px-4 py-10 lg:py-12'>
         <span className='text-4xl font-semibold'>{t('title')}</span>
+        <p className='mt-4 text-lg text-gray-600'>{t('description')}</p>
         
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8'>
           {services.docs.map((service) => (
