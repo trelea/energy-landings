@@ -47,7 +47,7 @@ export default function Footer() {
 
     return (
         <>
-            <footer className="bg-[#05070F] border-t border-[#4B4B4B] text-white w-full py-24 relative overflow-hidden z-0">
+            <footer className="bg-[#05070F] border-t border-[#4B4B4B] text-white w-full pt-24 pb-10 relative overflow-hidden z-0">
                 <div className="container xl:max-w-screen-xl mx-auto flex flex-col md:flex-row items-start justify-between gap-16 md:gap-8 px-4">
                     <div className="flex flex-col gap-12 max-w-[400px]">
                         <div className="flex flex-col items-start justify-start gap-4">
@@ -98,6 +98,11 @@ export default function Footer() {
                     </div>
                 </div>
                 <Image src="/footerbg.png" alt="footerbg" width={900} height={900} className="absolute top-0 right-0 -translate-x-10 -translate-y-[10%] hidden md:block -z-10"/>
+                
+                <div className="container mx-auto flex items-center justify-center mt-12 px-4 text-sm text-gray-400">
+                    <span>Made by <a className="font-medium underline" href="https://devcompare.md/ro">ComPare</a></span>
+                </div>
+
             </footer>
 
             {/* Legal Modal */}
